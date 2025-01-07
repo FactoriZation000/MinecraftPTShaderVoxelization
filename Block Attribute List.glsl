@@ -167,3 +167,11 @@ layers=8
 :facing=west:half=bottom:shape=inner_right
 :facing=west:half=bottom:shape=outer_left
 :facing=west:half=bottom:shape=outer_right
+
+// hopper 
+:facing=down
+:facing=north
+:facing=south
+:facing=east
+:facing=west
+

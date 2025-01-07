@@ -1,6 +1,6 @@
 // Voxel Id List
 // Organized by Factorization
-// Number of updates:3
+// Number of updates:5
 
 
 // slab台阶
@@ -337,3 +337,1300 @@ deepslate_brick_wall
 deepslate_tile_wall
 
 // stair楼梯
+
+cut_copper_stairs
+exposed_cut_copper_stairs
+weathered_cut_copper_stairs
+oxidized_cut_copper_stairs
+waxed_cut_copper_stairs
+waxed_exposed_cut_copper_stairs
+waxed_weathered_cut_copper_stairs
+waxed_oxidized_cut_copper_stairs
+purpur_stairs
+cobblestone_stairs
+brick_stairs
+stone_brick_stairs
+mud_brick_stairs
+nether_brick_stairs
+sandstone_stairs
+oak_stairs
+spruce_stairs
+birch_stairs
+jungle_stairs
+acacia_stairs
+dark_oak_stairs
+mangrove_stairs
+crimson_stairs
+warped_stairs
+quartz_stairs
+prismarine_stairs
+prismarine_brick_stairs
+dark_prismarine_stairs
+red_sandstone_stairs
+polished_granite_stairs
+smooth_red_sandstone_stairs
+mossy_stone_brick_stairs
+polished_diorite_stairs
+mossy_cobblestone_stairs
+end_stone_brick_stairs
+stone_stairs
+smooth_sandstone_stairs
+smooth_quartz_stairs
+granite_stairs
+andesite_stairs
+red_nether_brick_stairs
+polished_andesite_stairs
+diorite_stairs
+cobbled_deepslate_stairs
+polished_deepslate_stairs
+deepslate_brick_stairs
+deepslate_tile_stairs
+blackstone_stairs
+polished_blackstone_stairs
+polished_blackstone_brick_stairs
+bamboo_stairs
+bamboo_mosaic_stairs
+cherry_stairs
+pale_oak_stairs
+resin_brick_stairs
+tuff_stairs
+polished_tuff_stairs
+tuff_brick_stairs
+
+// Stairs - Straight
+// 1.stairs:facing=north:half=bottom:shape=straight
+
+cut_copper_stairs:facing=north:half=bottom:shape=straight exposed_cut_copper_stairs:facing=north:half=bottom:shape=straight \
+			  weathered_cut_copper_stairs:facing=north:half=bottom:shape=straight oxidized_cut_copper_stairs:facing=north:half=bottom:shape=straight \
+			  waxed_cut_copper_stairs:facing=north:half=bottom:shape=straight waxed_exposed_cut_copper_stairs:facing=north:half=bottom:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=bottom:shape=straight waxed_oxidized_cut_copper_stairs:facing=north:half=bottom:shape=straight \
+			  purpur_stairs:facing=north:half=bottom:shape=straight cobblestone_stairs:facing=north:half=bottom:shape=straight \
+			  brick_stairs:facing=north:half=bottom:shape=straight stone_brick_stairs:facing=north:half=bottom:shape=straight \
+			  mud_brick_stairs:facing=north:half=bottom:shape=straight nether_brick_stairs:facing=north:half=bottom:shape=straight \
+			  sandstone_stairs:facing=north:half=bottom:shape=straight oak_stairs:facing=north:half=bottom:shape=straight \
+			  spruce_stairs:facing=north:half=bottom:shape=straight birch_stairs:facing=north:half=bottom:shape=straight \
+			  jungle_stairs:facing=north:half=bottom:shape=straight acacia_stairs:facing=north:half=bottom:shape=straight \
+			  dark_oak_stairs:facing=north:half=bottom:shape=straight mangrove_stairs:facing=north:half=bottom:shape=straight \
+			  crimson_stairs:facing=north:half=bottom:shape=straight warped_stairs:facing=north:half=bottom:shape=straight \
+			  quartz_stairs:facing=north:half=bottom:shape=straight prismarine_stairs:facing=north:half=bottom:shape=straight \
+			  prismarine_brick_stairs:facing=north:half=bottom:shape=straight dark_prismarine_stairs:facing=north:half=bottom:shape=straight \
+			  red_sandstone_stairs:facing=north:half=bottom:shape=straight polished_granite_stairs:facing=north:half=bottom:shape=straight \
+			  smooth_red_sandstone_stairs:facing=north:half=bottom:shape=straight mossy_stone_brick_stairs:facing=north:half=bottom:shape=straight \
+			  polished_diorite_stairs:facing=north:half=bottom:shape=straight mossy_cobblestone_stairs:facing=north:half=bottom:shape=straight \
+			  end_stone_brick_stairs:facing=north:half=bottom:shape=straight stone_stairs:facing=north:half=bottom:shape=straight \
+			  smooth_sandstone_stairs:facing=north:half=bottom:shape=straight smooth_quartz_stairs:facing=north:half=bottom:shape=straight \
+			  granite_stairs:facing=north:half=bottom:shape=straight andesite_stairs:facing=north:half=bottom:shape=straight \
+			  red_nether_brick_stairs:facing=north:half=bottom:shape=straight polished_andesite_stairs:facing=north:half=bottom:shape=straight \
+			  diorite_stairs:facing=north:half=bottom:shape=straight cobbled_deepslate_stairs:facing=north:half=bottom:shape=straight \
+			  polished_deepslate_stairs:facing=north:half=bottom:shape=straight deepslate_brick_stairs:facing=north:half=bottom:shape=straight \
+			  deepslate_tile_stairs:facing=north:half=bottom:shape=straight blackstone_stairs:facing=north:half=bottom:shape=straight \
+			  polished_blackstone_stairs:facing=north:half=bottom:shape=straight polished_blackstone_brick_stairs:facing=north:half=bottom:shape=straight \
+			  bamboo_stairs:facing=north:half=bottom:shape=straight bamboo_mosaic_stairs:facing=north:half=bottom:shape=straight \
+			  cherry_stairs:facing=north:half=bottom:shape=straight pale_oak_stairs:facing=north:half=bottom:shape=straight \
+			  resin_brick_stairs:facing=north:half=bottom:shape=straight tuff_stairs:facing=north:half=bottom:shape=straight \
+			  polished_tuff_stairs:facing=north:half=bottom:shape=straight tuff_brick_stairs:facing=north:half=bottom:shape=straight \
+
+// 2.stairs:facing=south:half=bottom:shape=straight
+
+cut_copper_stairs:facing=south:half=bottom:shape=straight exposed_cut_copper_stairs:facing=south:half=bottom:shape=straight \
+			  weathered_cut_copper_stairs:facing=south:half=bottom:shape=straight oxidized_cut_copper_stairs:facing=south:half=bottom:shape=straight \
+			  waxed_cut_copper_stairs:facing=south:half=bottom:shape=straight waxed_exposed_cut_copper_stairs:facing=south:half=bottom:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=bottom:shape=straight waxed_oxidized_cut_copper_stairs:facing=south:half=bottom:shape=straight \
+			  purpur_stairs:facing=south:half=bottom:shape=straight cobblestone_stairs:facing=south:half=bottom:shape=straight \
+			  brick_stairs:facing=south:half=bottom:shape=straight stone_brick_stairs:facing=south:half=bottom:shape=straight \
+			  mud_brick_stairs:facing=south:half=bottom:shape=straight nether_brick_stairs:facing=south:half=bottom:shape=straight \
+			  sandstone_stairs:facing=south:half=bottom:shape=straight oak_stairs:facing=south:half=bottom:shape=straight \
+			  spruce_stairs:facing=south:half=bottom:shape=straight birch_stairs:facing=south:half=bottom:shape=straight \
+			  jungle_stairs:facing=south:half=bottom:shape=straight acacia_stairs:facing=south:half=bottom:shape=straight \
+			  dark_oak_stairs:facing=south:half=bottom:shape=straight mangrove_stairs:facing=south:half=bottom:shape=straight \
+			  crimson_stairs:facing=south:half=bottom:shape=straight warped_stairs:facing=south:half=bottom:shape=straight \
+			  quartz_stairs:facing=south:half=bottom:shape=straight prismarine_stairs:facing=south:half=bottom:shape=straight \
+			  prismarine_brick_stairs:facing=south:half=bottom:shape=straight dark_prismarine_stairs:facing=south:half=bottom:shape=straight \
+			  red_sandstone_stairs:facing=south:half=bottom:shape=straight polished_granite_stairs:facing=south:half=bottom:shape=straight \
+			  smooth_red_sandstone_stairs:facing=south:half=bottom:shape=straight mossy_stone_brick_stairs:facing=south:half=bottom:shape=straight \
+			  polished_diorite_stairs:facing=south:half=bottom:shape=straight mossy_cobblestone_stairs:facing=south:half=bottom:shape=straight \
+			  end_stone_brick_stairs:facing=south:half=bottom:shape=straight stone_stairs:facing=south:half=bottom:shape=straight \
+			  smooth_sandstone_stairs:facing=south:half=bottom:shape=straight smooth_quartz_stairs:facing=south:half=bottom:shape=straight \
+			  granite_stairs:facing=south:half=bottom:shape=straight andesite_stairs:facing=south:half=bottom:shape=straight \
+			  red_nether_brick_stairs:facing=south:half=bottom:shape=straight polished_andesite_stairs:facing=south:half=bottom:shape=straight \
+			  diorite_stairs:facing=south:half=bottom:shape=straight cobbled_deepslate_stairs:facing=south:half=bottom:shape=straight \
+			  polished_deepslate_stairs:facing=south:half=bottom:shape=straight deepslate_brick_stairs:facing=south:half=bottom:shape=straight \
+			  deepslate_tile_stairs:facing=south:half=bottom:shape=straight blackstone_stairs:facing=south:half=bottom:shape=straight \
+			  polished_blackstone_stairs:facing=south:half=bottom:shape=straight polished_blackstone_brick_stairs:facing=south:half=bottom:shape=straight \
+			  bamboo_stairs:facing=south:half=bottom:shape=straight bamboo_mosaic_stairs:facing=south:half=bottom:shape=straight \
+			  cherry_stairs:facing=south:half=bottom:shape=straight pale_oak_stairs:facing=south:half=bottom:shape=straight \
+			  resin_brick_stairs:facing=south:half=bottom:shape=straight tuff_stairs:facing=south:half=bottom:shape=straight \
+			  polished_tuff_stairs:facing=south:half=bottom:shape=straight tuff_brick_stairs:facing=south:half=bottom:shape=straight \
+
+// 3.stairs:facing=west:half=bottom:shape=straight
+
+cut_copper_stairs:facing=west:half=bottom:shape=straight exposed_cut_copper_stairs:facing=west:half=bottom:shape=straight \
+			  weathered_cut_copper_stairs:facing=west:half=bottom:shape=straight oxidized_cut_copper_stairs:facing=west:half=bottom:shape=straight \
+			  waxed_cut_copper_stairs:facing=west:half=bottom:shape=straight waxed_exposed_cut_copper_stairs:facing=west:half=bottom:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=bottom:shape=straight waxed_oxidized_cut_copper_stairs:facing=west:half=bottom:shape=straight \
+			  purpur_stairs:facing=west:half=bottom:shape=straight cobblestone_stairs:facing=west:half=bottom:shape=straight \
+			  brick_stairs:facing=west:half=bottom:shape=straight stone_brick_stairs:facing=west:half=bottom:shape=straight \
+			  mud_brick_stairs:facing=west:half=bottom:shape=straight nether_brick_stairs:facing=west:half=bottom:shape=straight \
+			  sandstone_stairs:facing=west:half=bottom:shape=straight oak_stairs:facing=west:half=bottom:shape=straight \
+			  spruce_stairs:facing=west:half=bottom:shape=straight birch_stairs:facing=west:half=bottom:shape=straight \
+			  jungle_stairs:facing=west:half=bottom:shape=straight acacia_stairs:facing=west:half=bottom:shape=straight \
+			  dark_oak_stairs:facing=west:half=bottom:shape=straight mangrove_stairs:facing=west:half=bottom:shape=straight \
+			  crimson_stairs:facing=west:half=bottom:shape=straight warped_stairs:facing=west:half=bottom:shape=straight \
+			  quartz_stairs:facing=west:half=bottom:shape=straight prismarine_stairs:facing=west:half=bottom:shape=straight \
+			  prismarine_brick_stairs:facing=west:half=bottom:shape=straight dark_prismarine_stairs:facing=west:half=bottom:shape=straight \
+			  red_sandstone_stairs:facing=west:half=bottom:shape=straight polished_granite_stairs:facing=west:half=bottom:shape=straight \
+			  smooth_red_sandstone_stairs:facing=west:half=bottom:shape=straight mossy_stone_brick_stairs:facing=west:half=bottom:shape=straight \
+			  polished_diorite_stairs:facing=west:half=bottom:shape=straight mossy_cobblestone_stairs:facing=west:half=bottom:shape=straight \
+			  end_stone_brick_stairs:facing=west:half=bottom:shape=straight stone_stairs:facing=west:half=bottom:shape=straight \
+			  smooth_sandstone_stairs:facing=west:half=bottom:shape=straight smooth_quartz_stairs:facing=west:half=bottom:shape=straight \
+			  granite_stairs:facing=west:half=bottom:shape=straight andesite_stairs:facing=west:half=bottom:shape=straight \
+			  red_nether_brick_stairs:facing=west:half=bottom:shape=straight polished_andesite_stairs:facing=west:half=bottom:shape=straight \
+			  diorite_stairs:facing=west:half=bottom:shape=straight cobbled_deepslate_stairs:facing=west:half=bottom:shape=straight \
+			  polished_deepslate_stairs:facing=west:half=bottom:shape=straight deepslate_brick_stairs:facing=west:half=bottom:shape=straight \
+			  deepslate_tile_stairs:facing=west:half=bottom:shape=straight blackstone_stairs:facing=west:half=bottom:shape=straight \
+			  polished_blackstone_stairs:facing=west:half=bottom:shape=straight polished_blackstone_brick_stairs:facing=west:half=bottom:shape=straight \
+			  bamboo_stairs:facing=west:half=bottom:shape=straight bamboo_mosaic_stairs:facing=west:half=bottom:shape=straight \
+			  cherry_stairs:facing=west:half=bottom:shape=straight pale_oak_stairs:facing=west:half=bottom:shape=straight \
+			  resin_brick_stairs:facing=west:half=bottom:shape=straight tuff_stairs:facing=west:half=bottom:shape=straight \
+			  polished_tuff_stairs:facing=west:half=bottom:shape=straight tuff_brick_stairs:facing=west:half=bottom:shape=straight \
+
+// 4.stairs:facing=east:half=bottom:shape=straight
+
+cut_copper_stairs:facing=east:half=bottom:shape=straight exposed_cut_copper_stairs:facing=east:half=bottom:shape=straight \
+			  weathered_cut_copper_stairs:facing=east:half=bottom:shape=straight oxidized_cut_copper_stairs:facing=east:half=bottom:shape=straight \
+			  waxed_cut_copper_stairs:facing=east:half=bottom:shape=straight waxed_exposed_cut_copper_stairs:facing=east:half=bottom:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=bottom:shape=straight waxed_oxidized_cut_copper_stairs:facing=east:half=bottom:shape=straight \
+			  purpur_stairs:facing=east:half=bottom:shape=straight cobblestone_stairs:facing=east:half=bottom:shape=straight \
+			  brick_stairs:facing=east:half=bottom:shape=straight stone_brick_stairs:facing=east:half=bottom:shape=straight \
+			  mud_brick_stairs:facing=east:half=bottom:shape=straight nether_brick_stairs:facing=east:half=bottom:shape=straight \
+			  sandstone_stairs:facing=east:half=bottom:shape=straight oak_stairs:facing=east:half=bottom:shape=straight \
+			  spruce_stairs:facing=east:half=bottom:shape=straight birch_stairs:facing=east:half=bottom:shape=straight \
+			  jungle_stairs:facing=east:half=bottom:shape=straight acacia_stairs:facing=east:half=bottom:shape=straight \
+			  dark_oak_stairs:facing=east:half=bottom:shape=straight mangrove_stairs:facing=east:half=bottom:shape=straight \
+			  crimson_stairs:facing=east:half=bottom:shape=straight warped_stairs:facing=east:half=bottom:shape=straight \
+			  quartz_stairs:facing=east:half=bottom:shape=straight prismarine_stairs:facing=east:half=bottom:shape=straight \
+			  prismarine_brick_stairs:facing=east:half=bottom:shape=straight dark_prismarine_stairs:facing=east:half=bottom:shape=straight \
+			  red_sandstone_stairs:facing=east:half=bottom:shape=straight polished_granite_stairs:facing=east:half=bottom:shape=straight \
+			  smooth_red_sandstone_stairs:facing=east:half=bottom:shape=straight mossy_stone_brick_stairs:facing=east:half=bottom:shape=straight \
+			  polished_diorite_stairs:facing=east:half=bottom:shape=straight mossy_cobblestone_stairs:facing=east:half=bottom:shape=straight \
+			  end_stone_brick_stairs:facing=east:half=bottom:shape=straight stone_stairs:facing=east:half=bottom:shape=straight \
+			  smooth_sandstone_stairs:facing=east:half=bottom:shape=straight smooth_quartz_stairs:facing=east:half=bottom:shape=straight \
+			  granite_stairs:facing=east:half=bottom:shape=straight andesite_stairs:facing=east:half=bottom:shape=straight \
+			  red_nether_brick_stairs:facing=east:half=bottom:shape=straight polished_andesite_stairs:facing=east:half=bottom:shape=straight \
+			  diorite_stairs:facing=east:half=bottom:shape=straight cobbled_deepslate_stairs:facing=east:half=bottom:shape=straight \
+			  polished_deepslate_stairs:facing=east:half=bottom:shape=straight deepslate_brick_stairs:facing=east:half=bottom:shape=straight \
+			  deepslate_tile_stairs:facing=east:half=bottom:shape=straight blackstone_stairs:facing=east:half=bottom:shape=straight \
+			  polished_blackstone_stairs:facing=east:half=bottom:shape=straight polished_blackstone_brick_stairs:facing=east:half=bottom:shape=straight \
+			  bamboo_stairs:facing=east:half=bottom:shape=straight bamboo_mosaic_stairs:facing=east:half=bottom:shape=straight \
+			  cherry_stairs:facing=east:half=bottom:shape=straight pale_oak_stairs:facing=east:half=bottom:shape=straight \
+			  resin_brick_stairs:facing=east:half=bottom:shape=straight tuff_stairs:facing=east:half=bottom:shape=straight \
+			  polished_tuff_stairs:facing=east:half=bottom:shape=straight tuff_brick_stairs:facing=east:half=bottom:shape=straight \
+
+// 5.stairs:facing=north:half=top:shape=straight
+
+cut_copper_stairs:facing=north:half=top:shape=straight exposed_cut_copper_stairs:facing=north:half=top:shape=straight \
+			  weathered_cut_copper_stairs:facing=north:half=top:shape=straight oxidized_cut_copper_stairs:facing=north:half=top:shape=straight \
+			  waxed_cut_copper_stairs:facing=north:half=top:shape=straight waxed_exposed_cut_copper_stairs:facing=north:half=top:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=top:shape=straight waxed_oxidized_cut_copper_stairs:facing=north:half=top:shape=straight \
+			  purpur_stairs:facing=north:half=top:shape=straight cobblestone_stairs:facing=north:half=top:shape=straight \
+			  brick_stairs:facing=north:half=top:shape=straight stone_brick_stairs:facing=north:half=top:shape=straight \
+			  mud_brick_stairs:facing=north:half=top:shape=straight nether_brick_stairs:facing=north:half=top:shape=straight \
+			  sandstone_stairs:facing=north:half=top:shape=straight oak_stairs:facing=north:half=top:shape=straight \
+			  spruce_stairs:facing=north:half=top:shape=straight birch_stairs:facing=north:half=top:shape=straight \
+			  jungle_stairs:facing=north:half=top:shape=straight acacia_stairs:facing=north:half=top:shape=straight \
+			  dark_oak_stairs:facing=north:half=top:shape=straight mangrove_stairs:facing=north:half=top:shape=straight \
+			  crimson_stairs:facing=north:half=top:shape=straight warped_stairs:facing=north:half=top:shape=straight \
+			  quartz_stairs:facing=north:half=top:shape=straight prismarine_stairs:facing=north:half=top:shape=straight \
+			  prismarine_brick_stairs:facing=north:half=top:shape=straight dark_prismarine_stairs:facing=north:half=top:shape=straight \
+			  red_sandstone_stairs:facing=north:half=top:shape=straight polished_granite_stairs:facing=north:half=top:shape=straight \
+			  smooth_red_sandstone_stairs:facing=north:half=top:shape=straight mossy_stone_brick_stairs:facing=north:half=top:shape=straight \
+			  polished_diorite_stairs:facing=north:half=top:shape=straight mossy_cobblestone_stairs:facing=north:half=top:shape=straight \
+			  end_stone_brick_stairs:facing=north:half=top:shape=straight stone_stairs:facing=north:half=top:shape=straight \
+			  smooth_sandstone_stairs:facing=north:half=top:shape=straight smooth_quartz_stairs:facing=north:half=top:shape=straight \
+			  granite_stairs:facing=north:half=top:shape=straight andesite_stairs:facing=north:half=top:shape=straight \
+			  red_nether_brick_stairs:facing=north:half=top:shape=straight polished_andesite_stairs:facing=north:half=top:shape=straight \
+			  diorite_stairs:facing=north:half=top:shape=straight cobbled_deepslate_stairs:facing=north:half=top:shape=straight \
+			  polished_deepslate_stairs:facing=north:half=top:shape=straight deepslate_brick_stairs:facing=north:half=top:shape=straight \
+			  deepslate_tile_stairs:facing=north:half=top:shape=straight blackstone_stairs:facing=north:half=top:shape=straight \
+			  polished_blackstone_stairs:facing=north:half=top:shape=straight polished_blackstone_brick_stairs:facing=north:half=top:shape=straight \
+			  bamboo_stairs:facing=north:half=top:shape=straight bamboo_mosaic_stairs:facing=north:half=top:shape=straight \
+			  cherry_stairs:facing=north:half=top:shape=straight pale_oak_stairs:facing=north:half=top:shape=straight \
+			  resin_brick_stairs:facing=north:half=top:shape=straight tuff_stairs:facing=north:half=top:shape=straight \
+			  polished_tuff_stairs:facing=north:half=top:shape=straight tuff_brick_stairs:facing=north:half=top:shape=straight \
+
+// 6.stairs:facing=south:half=top:shape=straight
+
+cut_copper_stairs:facing=south:half=top:shape=straight exposed_cut_copper_stairs:facing=south:half=top:shape=straight \
+			  weathered_cut_copper_stairs:facing=south:half=top:shape=straight oxidized_cut_copper_stairs:facing=south:half=top:shape=straight \
+			  waxed_cut_copper_stairs:facing=south:half=top:shape=straight waxed_exposed_cut_copper_stairs:facing=south:half=top:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=top:shape=straight waxed_oxidized_cut_copper_stairs:facing=south:half=top:shape=straight \
+			  purpur_stairs:facing=south:half=top:shape=straight cobblestone_stairs:facing=south:half=top:shape=straight \
+			  brick_stairs:facing=south:half=top:shape=straight stone_brick_stairs:facing=south:half=top:shape=straight \
+			  mud_brick_stairs:facing=south:half=top:shape=straight nether_brick_stairs:facing=south:half=top:shape=straight \
+			  sandstone_stairs:facing=south:half=top:shape=straight oak_stairs:facing=south:half=top:shape=straight \
+			  spruce_stairs:facing=south:half=top:shape=straight birch_stairs:facing=south:half=top:shape=straight \
+			  jungle_stairs:facing=south:half=top:shape=straight acacia_stairs:facing=south:half=top:shape=straight \
+			  dark_oak_stairs:facing=south:half=top:shape=straight mangrove_stairs:facing=south:half=top:shape=straight \
+			  crimson_stairs:facing=south:half=top:shape=straight warped_stairs:facing=south:half=top:shape=straight \
+			  quartz_stairs:facing=south:half=top:shape=straight prismarine_stairs:facing=south:half=top:shape=straight \
+			  prismarine_brick_stairs:facing=south:half=top:shape=straight dark_prismarine_stairs:facing=south:half=top:shape=straight \
+			  red_sandstone_stairs:facing=south:half=top:shape=straight polished_granite_stairs:facing=south:half=top:shape=straight \
+			  smooth_red_sandstone_stairs:facing=south:half=top:shape=straight mossy_stone_brick_stairs:facing=south:half=top:shape=straight \
+			  polished_diorite_stairs:facing=south:half=top:shape=straight mossy_cobblestone_stairs:facing=south:half=top:shape=straight \
+			  end_stone_brick_stairs:facing=south:half=top:shape=straight stone_stairs:facing=south:half=top:shape=straight \
+			  smooth_sandstone_stairs:facing=south:half=top:shape=straight smooth_quartz_stairs:facing=south:half=top:shape=straight \
+			  granite_stairs:facing=south:half=top:shape=straight andesite_stairs:facing=south:half=top:shape=straight \
+			  red_nether_brick_stairs:facing=south:half=top:shape=straight polished_andesite_stairs:facing=south:half=top:shape=straight \
+			  diorite_stairs:facing=south:half=top:shape=straight cobbled_deepslate_stairs:facing=south:half=top:shape=straight \
+			  polished_deepslate_stairs:facing=south:half=top:shape=straight deepslate_brick_stairs:facing=south:half=top:shape=straight \
+			  deepslate_tile_stairs:facing=south:half=top:shape=straight blackstone_stairs:facing=south:half=top:shape=straight \
+			  polished_blackstone_stairs:facing=south:half=top:shape=straight polished_blackstone_brick_stairs:facing=south:half=top:shape=straight \
+			  bamboo_stairs:facing=south:half=top:shape=straight bamboo_mosaic_stairs:facing=south:half=top:shape=straight \
+			  cherry_stairs:facing=south:half=top:shape=straight pale_oak_stairs:facing=south:half=top:shape=straight \
+			  resin_brick_stairs:facing=south:half=top:shape=straight tuff_stairs:facing=south:half=top:shape=straight \
+			  polished_tuff_stairs:facing=south:half=top:shape=straight tuff_brick_stairs:facing=south:half=top:shape=straight \
+
+// 7.stairs:facing=west:half=top:shape=straight
+
+cut_copper_stairs:facing=west:half=top:shape=straight exposed_cut_copper_stairs:facing=west:half=top:shape=straight \
+			  weathered_cut_copper_stairs:facing=west:half=top:shape=straight oxidized_cut_copper_stairs:facing=west:half=top:shape=straight \
+			  waxed_cut_copper_stairs:facing=west:half=top:shape=straight waxed_exposed_cut_copper_stairs:facing=west:half=top:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=top:shape=straight waxed_oxidized_cut_copper_stairs:facing=west:half=top:shape=straight \
+			  purpur_stairs:facing=west:half=top:shape=straight cobblestone_stairs:facing=west:half=top:shape=straight \
+			  brick_stairs:facing=west:half=top:shape=straight stone_brick_stairs:facing=west:half=top:shape=straight \
+			  mud_brick_stairs:facing=west:half=top:shape=straight nether_brick_stairs:facing=west:half=top:shape=straight \
+			  sandstone_stairs:facing=west:half=top:shape=straight oak_stairs:facing=west:half=top:shape=straight spruce_stairs:facing=west:half=top:shape=straight \
+			  birch_stairs:facing=west:half=top:shape=straight jungle_stairs:facing=west:half=top:shape=straight acacia_stairs:facing=west:half=top:shape=straight \
+			  dark_oak_stairs:facing=west:half=top:shape=straight mangrove_stairs:facing=west:half=top:shape=straight \
+			  crimson_stairs:facing=west:half=top:shape=straight warped_stairs:facing=west:half=top:shape=straight quartz_stairs:facing=west:half=top:shape=straight \
+			  prismarine_stairs:facing=west:half=top:shape=straight prismarine_brick_stairs:facing=west:half=top:shape=straight \
+			  dark_prismarine_stairs:facing=west:half=top:shape=straight red_sandstone_stairs:facing=west:half=top:shape=straight \
+			  polished_granite_stairs:facing=west:half=top:shape=straight smooth_red_sandstone_stairs:facing=west:half=top:shape=straight \
+			  mossy_stone_brick_stairs:facing=west:half=top:shape=straight polished_diorite_stairs:facing=west:half=top:shape=straight \
+			  mossy_cobblestone_stairs:facing=west:half=top:shape=straight end_stone_brick_stairs:facing=west:half=top:shape=straight \
+			  stone_stairs:facing=west:half=top:shape=straight smooth_sandstone_stairs:facing=west:half=top:shape=straight \
+			  smooth_quartz_stairs:facing=west:half=top:shape=straight granite_stairs:facing=west:half=top:shape=straight \
+			  andesite_stairs:facing=west:half=top:shape=straight red_nether_brick_stairs:facing=west:half=top:shape=straight \
+			  polished_andesite_stairs:facing=west:half=top:shape=straight diorite_stairs:facing=west:half=top:shape=straight \
+			  cobbled_deepslate_stairs:facing=west:half=top:shape=straight polished_deepslate_stairs:facing=west:half=top:shape=straight \
+			  deepslate_brick_stairs:facing=west:half=top:shape=straight deepslate_tile_stairs:facing=west:half=top:shape=straight \
+			  blackstone_stairs:facing=west:half=top:shape=straight polished_blackstone_stairs:facing=west:half=top:shape=straight \
+			  polished_blackstone_brick_stairs:facing=west:half=top:shape=straight bamboo_stairs:facing=west:half=top:shape=straight \
+			  bamboo_mosaic_stairs:facing=west:half=top:shape=straight cherry_stairs:facing=west:half=top:shape=straight \
+			  pale_oak_stairs:facing=west:half=top:shape=straight resin_brick_stairs:facing=west:half=top:shape=straight \
+			  tuff_stairs:facing=west:half=top:shape=straight polished_tuff_stairs:facing=west:half=top:shape=straight \
+			  tuff_brick_stairs:facing=west:half=top:shape=straight \
+
+// 8.stairs:facing=east:half=top:shape=straight
+
+cut_copper_stairs:facing=east:half=top:shape=straight exposed_cut_copper_stairs:facing=east:half=top:shape=straight \
+			  weathered_cut_copper_stairs:facing=east:half=top:shape=straight oxidized_cut_copper_stairs:facing=east:half=top:shape=straight \
+			  waxed_cut_copper_stairs:facing=east:half=top:shape=straight waxed_exposed_cut_copper_stairs:facing=east:half=top:shape=straight \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=top:shape=straight waxed_oxidized_cut_copper_stairs:facing=east:half=top:shape=straight \
+			  purpur_stairs:facing=east:half=top:shape=straight cobblestone_stairs:facing=east:half=top:shape=straight \
+			  brick_stairs:facing=east:half=top:shape=straight stone_brick_stairs:facing=east:half=top:shape=straight \
+			  mud_brick_stairs:facing=east:half=top:shape=straight nether_brick_stairs:facing=east:half=top:shape=straight \
+			  sandstone_stairs:facing=east:half=top:shape=straight oak_stairs:facing=east:half=top:shape=straight spruce_stairs:facing=east:half=top:shape=straight \
+			  birch_stairs:facing=east:half=top:shape=straight jungle_stairs:facing=east:half=top:shape=straight acacia_stairs:facing=east:half=top:shape=straight \
+			  dark_oak_stairs:facing=east:half=top:shape=straight mangrove_stairs:facing=east:half=top:shape=straight \
+			  crimson_stairs:facing=east:half=top:shape=straight warped_stairs:facing=east:half=top:shape=straight quartz_stairs:facing=east:half=top:shape=straight \
+			  prismarine_stairs:facing=east:half=top:shape=straight prismarine_brick_stairs:facing=east:half=top:shape=straight \
+			  dark_prismarine_stairs:facing=east:half=top:shape=straight red_sandstone_stairs:facing=east:half=top:shape=straight \
+			  polished_granite_stairs:facing=east:half=top:shape=straight smooth_red_sandstone_stairs:facing=east:half=top:shape=straight \
+			  mossy_stone_brick_stairs:facing=east:half=top:shape=straight polished_diorite_stairs:facing=east:half=top:shape=straight \
+			  mossy_cobblestone_stairs:facing=east:half=top:shape=straight end_stone_brick_stairs:facing=east:half=top:shape=straight \
+			  stone_stairs:facing=east:half=top:shape=straight smooth_sandstone_stairs:facing=east:half=top:shape=straight \
+			  smooth_quartz_stairs:facing=east:half=top:shape=straight granite_stairs:facing=east:half=top:shape=straight \
+			  andesite_stairs:facing=east:half=top:shape=straight red_nether_brick_stairs:facing=east:half=top:shape=straight \
+			  polished_andesite_stairs:facing=east:half=top:shape=straight diorite_stairs:facing=east:half=top:shape=straight \
+			  cobbled_deepslate_stairs:facing=east:half=top:shape=straight polished_deepslate_stairs:facing=east:half=top:shape=straight \
+			  deepslate_brick_stairs:facing=east:half=top:shape=straight deepslate_tile_stairs:facing=east:half=top:shape=straight \
+			  blackstone_stairs:facing=east:half=top:shape=straight polished_blackstone_stairs:facing=east:half=top:shape=straight \
+			  polished_blackstone_brick_stairs:facing=east:half=top:shape=straight bamboo_stairs:facing=east:half=top:shape=straight \
+			  bamboo_mosaic_stairs:facing=east:half=top:shape=straight cherry_stairs:facing=east:half=top:shape=straight \
+			  pale_oak_stairs:facing=east:half=top:shape=straight resin_brick_stairs:facing=east:half=top:shape=straight \
+			  tuff_stairs:facing=east:half=top:shape=straight polished_tuff_stairs:facing=east:half=top:shape=straight \
+			  tuff_brick_stairs:facing=east:half=top:shape=straight \
+
+// Stairs - Outer
+// 9.stairs:facing=north:half=bottom:shape=outer_left & facing=west:half=bottom:shape=outer_right
+
+cut_copper_stairs:facing=north:half=bottom:shape=outer_left exposed_cut_copper_stairs:facing=north:half=bottom:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=north:half=bottom:shape=outer_left oxidized_cut_copper_stairs:facing=north:half=bottom:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=north:half=bottom:shape=outer_left waxed_exposed_cut_copper_stairs:facing=north:half=bottom:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=bottom:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=north:half=bottom:shape=outer_left \
+			  purpur_stairs:facing=north:half=bottom:shape=outer_left cobblestone_stairs:facing=north:half=bottom:shape=outer_left \
+			  brick_stairs:facing=north:half=bottom:shape=outer_left stone_brick_stairs:facing=north:half=bottom:shape=outer_left \
+			  mud_brick_stairs:facing=north:half=bottom:shape=outer_left nether_brick_stairs:facing=north:half=bottom:shape=outer_left \
+			  sandstone_stairs:facing=north:half=bottom:shape=outer_left oak_stairs:facing=north:half=bottom:shape=outer_left \
+			  spruce_stairs:facing=north:half=bottom:shape=outer_left birch_stairs:facing=north:half=bottom:shape=outer_left \
+			  jungle_stairs:facing=north:half=bottom:shape=outer_left acacia_stairs:facing=north:half=bottom:shape=outer_left \
+			  dark_oak_stairs:facing=north:half=bottom:shape=outer_left mangrove_stairs:facing=north:half=bottom:shape=outer_left \
+			  crimson_stairs:facing=north:half=bottom:shape=outer_left warped_stairs:facing=north:half=bottom:shape=outer_left \
+			  quartz_stairs:facing=north:half=bottom:shape=outer_left prismarine_stairs:facing=north:half=bottom:shape=outer_left \
+			  prismarine_brick_stairs:facing=north:half=bottom:shape=outer_left dark_prismarine_stairs:facing=north:half=bottom:shape=outer_left \
+			  red_sandstone_stairs:facing=north:half=bottom:shape=outer_left polished_granite_stairs:facing=north:half=bottom:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=north:half=bottom:shape=outer_left mossy_stone_brick_stairs:facing=north:half=bottom:shape=outer_left \
+			  polished_diorite_stairs:facing=north:half=bottom:shape=outer_left mossy_cobblestone_stairs:facing=north:half=bottom:shape=outer_left \
+			  end_stone_brick_stairs:facing=north:half=bottom:shape=outer_left stone_stairs:facing=north:half=bottom:shape=outer_left \
+			  smooth_sandstone_stairs:facing=north:half=bottom:shape=outer_left smooth_quartz_stairs:facing=north:half=bottom:shape=outer_left \
+			  granite_stairs:facing=north:half=bottom:shape=outer_left andesite_stairs:facing=north:half=bottom:shape=outer_left \
+			  red_nether_brick_stairs:facing=north:half=bottom:shape=outer_left polished_andesite_stairs:facing=north:half=bottom:shape=outer_left \
+			  diorite_stairs:facing=north:half=bottom:shape=outer_left cobbled_deepslate_stairs:facing=north:half=bottom:shape=outer_left \
+			  polished_deepslate_stairs:facing=north:half=bottom:shape=outer_left deepslate_brick_stairs:facing=north:half=bottom:shape=outer_left \
+			  deepslate_tile_stairs:facing=north:half=bottom:shape=outer_left blackstone_stairs:facing=north:half=bottom:shape=outer_left \
+			  polished_blackstone_stairs:facing=north:half=bottom:shape=outer_left polished_blackstone_brick_stairs:facing=north:half=bottom:shape=outer_left \
+			  bamboo_stairs:facing=north:half=bottom:shape=outer_left bamboo_mosaic_stairs:facing=north:half=bottom:shape=outer_left \
+			  cherry_stairs:facing=north:half=bottom:shape=outer_left pale_oak_stairs:facing=north:half=bottom:shape=outer_left \
+			  resin_brick_stairs:facing=north:half=bottom:shape=outer_left tuff_stairs:facing=north:half=bottom:shape=outer_left \
+			  polished_tuff_stairs:facing=north:half=bottom:shape=outer_left tuff_brick_stairs:facing=north:half=bottom:shape=outer_left \
+			  cut_copper_stairs:facing=west:half=bottom:shape=outer_right exposed_cut_copper_stairs:facing=west:half=bottom:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=west:half=bottom:shape=outer_right oxidized_cut_copper_stairs:facing=west:half=bottom:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=west:half=bottom:shape=outer_right waxed_exposed_cut_copper_stairs:facing=west:half=bottom:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=bottom:shape=outer_right waxed_oxidized_cut_copper_stairs:facing=west:half=bottom:shape=outer_right \
+			  purpur_stairs:facing=west:half=bottom:shape=outer_right cobblestone_stairs:facing=west:half=bottom:shape=outer_right \
+			  brick_stairs:facing=west:half=bottom:shape=outer_right stone_brick_stairs:facing=west:half=bottom:shape=outer_right \
+			  mud_brick_stairs:facing=west:half=bottom:shape=outer_right nether_brick_stairs:facing=west:half=bottom:shape=outer_right \
+			  sandstone_stairs:facing=west:half=bottom:shape=outer_right oak_stairs:facing=west:half=bottom:shape=outer_right \
+			  spruce_stairs:facing=west:half=bottom:shape=outer_right birch_stairs:facing=west:half=bottom:shape=outer_right \
+			  jungle_stairs:facing=west:half=bottom:shape=outer_right acacia_stairs:facing=west:half=bottom:shape=outer_right \
+			  dark_oak_stairs:facing=west:half=bottom:shape=outer_right mangrove_stairs:facing=west:half=bottom:shape=outer_right \
+			  crimson_stairs:facing=west:half=bottom:shape=outer_right warped_stairs:facing=west:half=bottom:shape=outer_right \
+			  quartz_stairs:facing=west:half=bottom:shape=outer_right prismarine_stairs:facing=west:half=bottom:shape=outer_right \
+			  prismarine_brick_stairs:facing=west:half=bottom:shape=outer_right dark_prismarine_stairs:facing=west:half=bottom:shape=outer_right \
+			  red_sandstone_stairs:facing=west:half=bottom:shape=outer_right polished_granite_stairs:facing=west:half=bottom:shape=outer_right \
+			  smooth_red_sandstone_stairs:facing=west:half=bottom:shape=outer_right mossy_stone_brick_stairs:facing=west:half=bottom:shape=outer_right \
+			  polished_diorite_stairs:facing=west:half=bottom:shape=outer_right mossy_cobblestone_stairs:facing=west:half=bottom:shape=outer_right \
+			  end_stone_brick_stairs:facing=west:half=bottom:shape=outer_right stone_stairs:facing=west:half=bottom:shape=outer_right \
+			  smooth_sandstone_stairs:facing=west:half=bottom:shape=outer_right smooth_quartz_stairs:facing=west:half=bottom:shape=outer_right \
+			  granite_stairs:facing=west:half=bottom:shape=outer_right andesite_stairs:facing=west:half=bottom:shape=outer_right \
+			  red_nether_brick_stairs:facing=west:half=bottom:shape=outer_right polished_andesite_stairs:facing=west:half=bottom:shape=outer_right \
+			  diorite_stairs:facing=west:half=bottom:shape=outer_right cobbled_deepslate_stairs:facing=west:half=bottom:shape=outer_right \
+			  polished_deepslate_stairs:facing=west:half=bottom:shape=outer_right deepslate_brick_stairs:facing=west:half=bottom:shape=outer_right \
+			  deepslate_tile_stairs:facing=west:half=bottom:shape=outer_right blackstone_stairs:facing=west:half=bottom:shape=outer_right \
+			  polished_blackstone_stairs:facing=west:half=bottom:shape=outer_right polished_blackstone_brick_stairs:facing=west:half=bottom:shape=outer_right \
+			  bamboo_stairs:facing=west:half=bottom:shape=outer_right bamboo_mosaic_stairs:facing=west:half=bottom:shape=outer_right \
+			  cherry_stairs:facing=west:half=bottom:shape=outer_right pale_oak_stairs:facing=west:half=bottom:shape=outer_right \
+			  resin_brick_stairs:facing=west:half=bottom:shape=outer_right tuff_stairs:facing=west:half=bottom:shape=outer_right \
+			  polished_tuff_stairs:facing=west:half=bottom:shape=outer_right tuff_brick_stairs:facing=west:half=bottom:shape=outer_right \
+
+// 10.stairs:facing=east:half=bottom:shape=outer_left & facing=north:half=bottom:shape=outer_right
+
+cut_copper_stairs:facing=east:half=bottom:shape=outer_left exposed_cut_copper_stairs:facing=east:half=bottom:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=east:half=bottom:shape=outer_left oxidized_cut_copper_stairs:facing=east:half=bottom:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=east:half=bottom:shape=outer_left waxed_exposed_cut_copper_stairs:facing=east:half=bottom:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=bottom:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=east:half=bottom:shape=outer_left \
+			  purpur_stairs:facing=east:half=bottom:shape=outer_left cobblestone_stairs:facing=east:half=bottom:shape=outer_left \
+			  brick_stairs:facing=east:half=bottom:shape=outer_left stone_brick_stairs:facing=east:half=bottom:shape=outer_left \
+			  mud_brick_stairs:facing=east:half=bottom:shape=outer_left nether_brick_stairs:facing=east:half=bottom:shape=outer_left \
+			  sandstone_stairs:facing=east:half=bottom:shape=outer_left oak_stairs:facing=east:half=bottom:shape=outer_left \
+			  spruce_stairs:facing=east:half=bottom:shape=outer_left birch_stairs:facing=east:half=bottom:shape=outer_left \
+			  jungle_stairs:facing=east:half=bottom:shape=outer_left acacia_stairs:facing=east:half=bottom:shape=outer_left \
+			  dark_oak_stairs:facing=east:half=bottom:shape=outer_left mangrove_stairs:facing=east:half=bottom:shape=outer_left \
+			  crimson_stairs:facing=east:half=bottom:shape=outer_left warped_stairs:facing=east:half=bottom:shape=outer_left \
+			  quartz_stairs:facing=east:half=bottom:shape=outer_left prismarine_stairs:facing=east:half=bottom:shape=outer_left \
+			  prismarine_brick_stairs:facing=east:half=bottom:shape=outer_left dark_prismarine_stairs:facing=east:half=bottom:shape=outer_left \
+			  red_sandstone_stairs:facing=east:half=bottom:shape=outer_left polished_granite_stairs:facing=east:half=bottom:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=east:half=bottom:shape=outer_left mossy_stone_brick_stairs:facing=east:half=bottom:shape=outer_left \
+			  polished_diorite_stairs:facing=east:half=bottom:shape=outer_left mossy_cobblestone_stairs:facing=east:half=bottom:shape=outer_left \
+			  end_stone_brick_stairs:facing=east:half=bottom:shape=outer_left stone_stairs:facing=east:half=bottom:shape=outer_left \
+			  smooth_sandstone_stairs:facing=east:half=bottom:shape=outer_left smooth_quartz_stairs:facing=east:half=bottom:shape=outer_left \
+			  granite_stairs:facing=east:half=bottom:shape=outer_left andesite_stairs:facing=east:half=bottom:shape=outer_left \
+			  red_nether_brick_stairs:facing=east:half=bottom:shape=outer_left polished_andesite_stairs:facing=east:half=bottom:shape=outer_left \
+			  diorite_stairs:facing=east:half=bottom:shape=outer_left cobbled_deepslate_stairs:facing=east:half=bottom:shape=outer_left \
+			  polished_deepslate_stairs:facing=east:half=bottom:shape=outer_left deepslate_brick_stairs:facing=east:half=bottom:shape=outer_left \
+			  deepslate_tile_stairs:facing=east:half=bottom:shape=outer_left blackstone_stairs:facing=east:half=bottom:shape=outer_left \
+			  polished_blackstone_stairs:facing=east:half=bottom:shape=outer_left polished_blackstone_brick_stairs:facing=east:half=bottom:shape=outer_left \
+			  bamboo_stairs:facing=east:half=bottom:shape=outer_left bamboo_mosaic_stairs:facing=east:half=bottom:shape=outer_left \
+			  cherry_stairs:facing=east:half=bottom:shape=outer_left pale_oak_stairs:facing=east:half=bottom:shape=outer_left \
+			  resin_brick_stairs:facing=east:half=bottom:shape=outer_left tuff_stairs:facing=east:half=bottom:shape=outer_left \
+			  polished_tuff_stairs:facing=east:half=bottom:shape=outer_left tuff_brick_stairs:facing=east:half=bottom:shape=outer_left \
+			  cut_copper_stairs:facing=north:half=bottom:shape=outer_right exposed_cut_copper_stairs:facing=north:half=bottom:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=north:half=bottom:shape=outer_right oxidized_cut_copper_stairs:facing=north:half=bottom:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=north:half=bottom:shape=outer_right waxed_exposed_cut_copper_stairs:facing=north:half=bottom:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=bottom:shape=outer_right \
+			  waxed_oxidized_cut_copper_stairs:facing=north:half=bottom:shape=outer_right purpur_stairs:facing=north:half=bottom:shape=outer_right \
+			  cobblestone_stairs:facing=north:half=bottom:shape=outer_right brick_stairs:facing=north:half=bottom:shape=outer_right \
+			  stone_brick_stairs:facing=north:half=bottom:shape=outer_right mud_brick_stairs:facing=north:half=bottom:shape=outer_right \
+			  nether_brick_stairs:facing=north:half=bottom:shape=outer_right sandstone_stairs:facing=north:half=bottom:shape=outer_right \
+			  oak_stairs:facing=north:half=bottom:shape=outer_right spruce_stairs:facing=north:half=bottom:shape=outer_right \
+			  birch_stairs:facing=north:half=bottom:shape=outer_right jungle_stairs:facing=north:half=bottom:shape=outer_right \
+			  acacia_stairs:facing=north:half=bottom:shape=outer_right dark_oak_stairs:facing=north:half=bottom:shape=outer_right \
+			  mangrove_stairs:facing=north:half=bottom:shape=outer_right crimson_stairs:facing=north:half=bottom:shape=outer_right \
+			  warped_stairs:facing=north:half=bottom:shape=outer_right quartz_stairs:facing=north:half=bottom:shape=outer_right \
+			  prismarine_stairs:facing=north:half=bottom:shape=outer_right prismarine_brick_stairs:facing=north:half=bottom:shape=outer_right \
+			  dark_prismarine_stairs:facing=north:half=bottom:shape=outer_right red_sandstone_stairs:facing=north:half=bottom:shape=outer_right \
+			  polished_granite_stairs:facing=north:half=bottom:shape=outer_right smooth_red_sandstone_stairs:facing=north:half=bottom:shape=outer_right \
+			  mossy_stone_brick_stairs:facing=north:half=bottom:shape=outer_right polished_diorite_stairs:facing=north:half=bottom:shape=outer_right \
+			  mossy_cobblestone_stairs:facing=north:half=bottom:shape=outer_right end_stone_brick_stairs:facing=north:half=bottom:shape=outer_right \
+			  stone_stairs:facing=north:half=bottom:shape=outer_right smooth_sandstone_stairs:facing=north:half=bottom:shape=outer_right \
+			  smooth_quartz_stairs:facing=north:half=bottom:shape=outer_right granite_stairs:facing=north:half=bottom:shape=outer_right \
+			  andesite_stairs:facing=north:half=bottom:shape=outer_right red_nether_brick_stairs:facing=north:half=bottom:shape=outer_right \
+			  polished_andesite_stairs:facing=north:half=bottom:shape=outer_right diorite_stairs:facing=north:half=bottom:shape=outer_right \
+			  cobbled_deepslate_stairs:facing=north:half=bottom:shape=outer_right polished_deepslate_stairs:facing=north:half=bottom:shape=outer_right \
+			  deepslate_brick_stairs:facing=north:half=bottom:shape=outer_right deepslate_tile_stairs:facing=north:half=bottom:shape=outer_right \
+			  blackstone_stairs:facing=north:half=bottom:shape=outer_right polished_blackstone_stairs:facing=north:half=bottom:shape=outer_right \
+			  polished_blackstone_brick_stairs:facing=north:half=bottom:shape=outer_right bamboo_stairs:facing=north:half=bottom:shape=outer_right \
+			  bamboo_mosaic_stairs:facing=north:half=bottom:shape=outer_right cherry_stairs:facing=north:half=bottom:shape=outer_right \
+			  pale_oak_stairs:facing=north:half=bottom:shape=outer_right resin_brick_stairs:facing=north:half=bottom:shape=outer_right \
+			  tuff_stairs:facing=north:half=bottom:shape=outer_right polished_tuff_stairs:facing=north:half=bottom:shape=outer_right \
+			  tuff_brick_stairs:facing=north:half=bottom:shape=outer_right \
+
+// 11.stairs:facing=west:half=bottom:shape=outer_left & facing=south:half=bottom:shape=outer_right
+
+cut_copper_stairs:facing=west:half=bottom:shape=outer_left exposed_cut_copper_stairs:facing=west:half=bottom:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=west:half=bottom:shape=outer_left oxidized_cut_copper_stairs:facing=west:half=bottom:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=west:half=bottom:shape=outer_left waxed_exposed_cut_copper_stairs:facing=west:half=bottom:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=bottom:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=west:half=bottom:shape=outer_left \
+			  purpur_stairs:facing=west:half=bottom:shape=outer_left cobblestone_stairs:facing=west:half=bottom:shape=outer_left \
+			  brick_stairs:facing=west:half=bottom:shape=outer_left stone_brick_stairs:facing=west:half=bottom:shape=outer_left \
+			  mud_brick_stairs:facing=west:half=bottom:shape=outer_left nether_brick_stairs:facing=west:half=bottom:shape=outer_left \
+			  sandstone_stairs:facing=west:half=bottom:shape=outer_left oak_stairs:facing=west:half=bottom:shape=outer_left \
+			  spruce_stairs:facing=west:half=bottom:shape=outer_left birch_stairs:facing=west:half=bottom:shape=outer_left \
+			  jungle_stairs:facing=west:half=bottom:shape=outer_left acacia_stairs:facing=west:half=bottom:shape=outer_left \
+			  dark_oak_stairs:facing=west:half=bottom:shape=outer_left mangrove_stairs:facing=west:half=bottom:shape=outer_left \
+			  crimson_stairs:facing=west:half=bottom:shape=outer_left warped_stairs:facing=west:half=bottom:shape=outer_left \
+			  quartz_stairs:facing=west:half=bottom:shape=outer_left prismarine_stairs:facing=west:half=bottom:shape=outer_left \
+			  prismarine_brick_stairs:facing=west:half=bottom:shape=outer_left dark_prismarine_stairs:facing=west:half=bottom:shape=outer_left \
+			  red_sandstone_stairs:facing=west:half=bottom:shape=outer_left polished_granite_stairs:facing=west:half=bottom:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=west:half=bottom:shape=outer_left mossy_stone_brick_stairs:facing=west:half=bottom:shape=outer_left \
+			  polished_diorite_stairs:facing=west:half=bottom:shape=outer_left mossy_cobblestone_stairs:facing=west:half=bottom:shape=outer_left \
+			  end_stone_brick_stairs:facing=west:half=bottom:shape=outer_left stone_stairs:facing=west:half=bottom:shape=outer_left \
+			  smooth_sandstone_stairs:facing=west:half=bottom:shape=outer_left smooth_quartz_stairs:facing=west:half=bottom:shape=outer_left \
+			  granite_stairs:facing=west:half=bottom:shape=outer_left andesite_stairs:facing=west:half=bottom:shape=outer_left \
+			  red_nether_brick_stairs:facing=west:half=bottom:shape=outer_left polished_andesite_stairs:facing=west:half=bottom:shape=outer_left \
+			  diorite_stairs:facing=west:half=bottom:shape=outer_left cobbled_deepslate_stairs:facing=west:half=bottom:shape=outer_left \
+			  polished_deepslate_stairs:facing=west:half=bottom:shape=outer_left deepslate_brick_stairs:facing=west:half=bottom:shape=outer_left \
+			  deepslate_tile_stairs:facing=west:half=bottom:shape=outer_left blackstone_stairs:facing=west:half=bottom:shape=outer_left \
+			  polished_blackstone_stairs:facing=west:half=bottom:shape=outer_left polished_blackstone_brick_stairs:facing=west:half=bottom:shape=outer_left \
+			  bamboo_stairs:facing=west:half=bottom:shape=outer_left bamboo_mosaic_stairs:facing=west:half=bottom:shape=outer_left \
+			  cherry_stairs:facing=west:half=bottom:shape=outer_left pale_oak_stairs:facing=west:half=bottom:shape=outer_left \
+			  resin_brick_stairs:facing=west:half=bottom:shape=outer_left tuff_stairs:facing=west:half=bottom:shape=outer_left \
+			  polished_tuff_stairs:facing=west:half=bottom:shape=outer_left tuff_brick_stairs:facing=west:half=bottom:shape=outer_left \
+			  cut_copper_stairs:facing=south:half=bottom:shape=outer_right exposed_cut_copper_stairs:facing=south:half=bottom:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=south:half=bottom:shape=outer_right oxidized_cut_copper_stairs:facing=south:half=bottom:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=south:half=bottom:shape=outer_right waxed_exposed_cut_copper_stairs:facing=south:half=bottom:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=bottom:shape=outer_right \
+			  waxed_oxidized_cut_copper_stairs:facing=south:half=bottom:shape=outer_right purpur_stairs:facing=south:half=bottom:shape=outer_right \
+			  cobblestone_stairs:facing=south:half=bottom:shape=outer_right brick_stairs:facing=south:half=bottom:shape=outer_right \
+			  stone_brick_stairs:facing=south:half=bottom:shape=outer_right mud_brick_stairs:facing=south:half=bottom:shape=outer_right \
+			  nether_brick_stairs:facing=south:half=bottom:shape=outer_right sandstone_stairs:facing=south:half=bottom:shape=outer_right \
+			  oak_stairs:facing=south:half=bottom:shape=outer_right spruce_stairs:facing=south:half=bottom:shape=outer_right \
+			  birch_stairs:facing=south:half=bottom:shape=outer_right jungle_stairs:facing=south:half=bottom:shape=outer_right \
+			  acacia_stairs:facing=south:half=bottom:shape=outer_right dark_oak_stairs:facing=south:half=bottom:shape=outer_right \
+			  mangrove_stairs:facing=south:half=bottom:shape=outer_right crimson_stairs:facing=south:half=bottom:shape=outer_right \
+			  warped_stairs:facing=south:half=bottom:shape=outer_right quartz_stairs:facing=south:half=bottom:shape=outer_right \
+			  prismarine_stairs:facing=south:half=bottom:shape=outer_right prismarine_brick_stairs:facing=south:half=bottom:shape=outer_right \
+			  dark_prismarine_stairs:facing=south:half=bottom:shape=outer_right red_sandstone_stairs:facing=south:half=bottom:shape=outer_right \
+			  polished_granite_stairs:facing=south:half=bottom:shape=outer_right smooth_red_sandstone_stairs:facing=south:half=bottom:shape=outer_right \
+			  mossy_stone_brick_stairs:facing=south:half=bottom:shape=outer_right polished_diorite_stairs:facing=south:half=bottom:shape=outer_right \
+			  mossy_cobblestone_stairs:facing=south:half=bottom:shape=outer_right end_stone_brick_stairs:facing=south:half=bottom:shape=outer_right \
+			  stone_stairs:facing=south:half=bottom:shape=outer_right smooth_sandstone_stairs:facing=south:half=bottom:shape=outer_right \
+			  smooth_quartz_stairs:facing=south:half=bottom:shape=outer_right granite_stairs:facing=south:half=bottom:shape=outer_right \
+			  andesite_stairs:facing=south:half=bottom:shape=outer_right red_nether_brick_stairs:facing=south:half=bottom:shape=outer_right \
+			  polished_andesite_stairs:facing=south:half=bottom:shape=outer_right diorite_stairs:facing=south:half=bottom:shape=outer_right \
+			  cobbled_deepslate_stairs:facing=south:half=bottom:shape=outer_right polished_deepslate_stairs:facing=south:half=bottom:shape=outer_right \
+			  deepslate_brick_stairs:facing=south:half=bottom:shape=outer_right deepslate_tile_stairs:facing=south:half=bottom:shape=outer_right \
+			  blackstone_stairs:facing=south:half=bottom:shape=outer_right polished_blackstone_stairs:facing=south:half=bottom:shape=outer_right \
+			  polished_blackstone_brick_stairs:facing=south:half=bottom:shape=outer_right bamboo_stairs:facing=south:half=bottom:shape=outer_right \
+			  bamboo_mosaic_stairs:facing=south:half=bottom:shape=outer_right cherry_stairs:facing=south:half=bottom:shape=outer_right \
+			  pale_oak_stairs:facing=south:half=bottom:shape=outer_right resin_brick_stairs:facing=south:half=bottom:shape=outer_right \
+			  tuff_stairs:facing=south:half=bottom:shape=outer_right polished_tuff_stairs:facing=south:half=bottom:shape=outer_right \
+			  tuff_brick_stairs:facing=south:half=bottom:shape=outer_right \
+
+// 12.stairs:facing=south:half=bottom:shape=outer_left & facing=east:half=bottom:shape=outer_right
+
+cut_copper_stairs:facing=south:half=bottom:shape=outer_left exposed_cut_copper_stairs:facing=south:half=bottom:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=south:half=bottom:shape=outer_left oxidized_cut_copper_stairs:facing=south:half=bottom:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=south:half=bottom:shape=outer_left waxed_exposed_cut_copper_stairs:facing=south:half=bottom:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=bottom:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=south:half=bottom:shape=outer_left \
+			  purpur_stairs:facing=south:half=bottom:shape=outer_left cobblestone_stairs:facing=south:half=bottom:shape=outer_left \
+			  brick_stairs:facing=south:half=bottom:shape=outer_left stone_brick_stairs:facing=south:half=bottom:shape=outer_left \
+			  mud_brick_stairs:facing=south:half=bottom:shape=outer_left nether_brick_stairs:facing=south:half=bottom:shape=outer_left \
+			  sandstone_stairs:facing=south:half=bottom:shape=outer_left oak_stairs:facing=south:half=bottom:shape=outer_left \
+			  spruce_stairs:facing=south:half=bottom:shape=outer_left birch_stairs:facing=south:half=bottom:shape=outer_left \
+			  jungle_stairs:facing=south:half=bottom:shape=outer_left acacia_stairs:facing=south:half=bottom:shape=outer_left \
+			  dark_oak_stairs:facing=south:half=bottom:shape=outer_left mangrove_stairs:facing=south:half=bottom:shape=outer_left \
+			  crimson_stairs:facing=south:half=bottom:shape=outer_left warped_stairs:facing=south:half=bottom:shape=outer_left \
+			  quartz_stairs:facing=south:half=bottom:shape=outer_left prismarine_stairs:facing=south:half=bottom:shape=outer_left \
+			  prismarine_brick_stairs:facing=south:half=bottom:shape=outer_left dark_prismarine_stairs:facing=south:half=bottom:shape=outer_left \
+			  red_sandstone_stairs:facing=south:half=bottom:shape=outer_left polished_granite_stairs:facing=south:half=bottom:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=south:half=bottom:shape=outer_left mossy_stone_brick_stairs:facing=south:half=bottom:shape=outer_left \
+			  polished_diorite_stairs:facing=south:half=bottom:shape=outer_left mossy_cobblestone_stairs:facing=south:half=bottom:shape=outer_left \
+			  end_stone_brick_stairs:facing=south:half=bottom:shape=outer_left stone_stairs:facing=south:half=bottom:shape=outer_left \
+			  smooth_sandstone_stairs:facing=south:half=bottom:shape=outer_left smooth_quartz_stairs:facing=south:half=bottom:shape=outer_left \
+			  granite_stairs:facing=south:half=bottom:shape=outer_left andesite_stairs:facing=south:half=bottom:shape=outer_left \
+			  red_nether_brick_stairs:facing=south:half=bottom:shape=outer_left polished_andesite_stairs:facing=south:half=bottom:shape=outer_left \
+			  diorite_stairs:facing=south:half=bottom:shape=outer_left cobbled_deepslate_stairs:facing=south:half=bottom:shape=outer_left \
+			  polished_deepslate_stairs:facing=south:half=bottom:shape=outer_left deepslate_brick_stairs:facing=south:half=bottom:shape=outer_left \
+			  deepslate_tile_stairs:facing=south:half=bottom:shape=outer_left blackstone_stairs:facing=south:half=bottom:shape=outer_left \
+			  polished_blackstone_stairs:facing=south:half=bottom:shape=outer_left polished_blackstone_brick_stairs:facing=south:half=bottom:shape=outer_left \
+			  bamboo_stairs:facing=south:half=bottom:shape=outer_left bamboo_mosaic_stairs:facing=south:half=bottom:shape=outer_left \
+			  cherry_stairs:facing=south:half=bottom:shape=outer_left pale_oak_stairs:facing=south:half=bottom:shape=outer_left \
+			  resin_brick_stairs:facing=south:half=bottom:shape=outer_left tuff_stairs:facing=south:half=bottom:shape=outer_left \
+			  polished_tuff_stairs:facing=south:half=bottom:shape=outer_left tuff_brick_stairs:facing=south:half=bottom:shape=outer_left \
+			  cut_copper_stairs:facing=east:half=bottom:shape=outer_right exposed_cut_copper_stairs:facing=east:half=bottom:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=east:half=bottom:shape=outer_right oxidized_cut_copper_stairs:facing=east:half=bottom:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=east:half=bottom:shape=outer_right waxed_exposed_cut_copper_stairs:facing=east:half=bottom:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=bottom:shape=outer_right waxed_oxidized_cut_copper_stairs:facing=east:half=bottom:shape=outer_right \
+			  purpur_stairs:facing=east:half=bottom:shape=outer_right cobblestone_stairs:facing=east:half=bottom:shape=outer_right \
+			  brick_stairs:facing=east:half=bottom:shape=outer_right stone_brick_stairs:facing=east:half=bottom:shape=outer_right \
+			  mud_brick_stairs:facing=east:half=bottom:shape=outer_right nether_brick_stairs:facing=east:half=bottom:shape=outer_right \
+			  sandstone_stairs:facing=east:half=bottom:shape=outer_right oak_stairs:facing=east:half=bottom:shape=outer_right \
+			  spruce_stairs:facing=east:half=bottom:shape=outer_right birch_stairs:facing=east:half=bottom:shape=outer_right \
+			  jungle_stairs:facing=east:half=bottom:shape=outer_right acacia_stairs:facing=east:half=bottom:shape=outer_right \
+			  dark_oak_stairs:facing=east:half=bottom:shape=outer_right mangrove_stairs:facing=east:half=bottom:shape=outer_right \
+			  crimson_stairs:facing=east:half=bottom:shape=outer_right warped_stairs:facing=east:half=bottom:shape=outer_right \
+			  quartz_stairs:facing=east:half=bottom:shape=outer_right prismarine_stairs:facing=east:half=bottom:shape=outer_right \
+			  prismarine_brick_stairs:facing=east:half=bottom:shape=outer_right dark_prismarine_stairs:facing=east:half=bottom:shape=outer_right \
+			  red_sandstone_stairs:facing=east:half=bottom:shape=outer_right polished_granite_stairs:facing=east:half=bottom:shape=outer_right \
+			  smooth_red_sandstone_stairs:facing=east:half=bottom:shape=outer_right mossy_stone_brick_stairs:facing=east:half=bottom:shape=outer_right \
+			  polished_diorite_stairs:facing=east:half=bottom:shape=outer_right mossy_cobblestone_stairs:facing=east:half=bottom:shape=outer_right \
+			  end_stone_brick_stairs:facing=east:half=bottom:shape=outer_right stone_stairs:facing=east:half=bottom:shape=outer_right \
+			  smooth_sandstone_stairs:facing=east:half=bottom:shape=outer_right smooth_quartz_stairs:facing=east:half=bottom:shape=outer_right \
+			  granite_stairs:facing=east:half=bottom:shape=outer_right andesite_stairs:facing=east:half=bottom:shape=outer_right \
+			  red_nether_brick_stairs:facing=east:half=bottom:shape=outer_right polished_andesite_stairs:facing=east:half=bottom:shape=outer_right \
+			  diorite_stairs:facing=east:half=bottom:shape=outer_right cobbled_deepslate_stairs:facing=east:half=bottom:shape=outer_right \
+			  polished_deepslate_stairs:facing=east:half=bottom:shape=outer_right deepslate_brick_stairs:facing=east:half=bottom:shape=outer_right \
+			  deepslate_tile_stairs:facing=east:half=bottom:shape=outer_right blackstone_stairs:facing=east:half=bottom:shape=outer_right \
+			  polished_blackstone_stairs:facing=east:half=bottom:shape=outer_right polished_blackstone_brick_stairs:facing=east:half=bottom:shape=outer_right \
+			  bamboo_stairs:facing=east:half=bottom:shape=outer_right bamboo_mosaic_stairs:facing=east:half=bottom:shape=outer_right \
+			  cherry_stairs:facing=east:half=bottom:shape=outer_right pale_oak_stairs:facing=east:half=bottom:shape=outer_right \
+			  resin_brick_stairs:facing=east:half=bottom:shape=outer_right tuff_stairs:facing=east:half=bottom:shape=outer_right \
+			  polished_tuff_stairs:facing=east:half=bottom:shape=outer_right tuff_brick_stairs:facing=east:half=bottom:shape=outer_right \
+
+
+// 13.stairs:facing=north:half=top:shape=outer_left & facing=west:half=top:shape=outer_right \
+
+cut_copper_stairs:facing=north:half=top:shape=outer_left exposed_cut_copper_stairs:facing=north:half=top:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=north:half=top:shape=outer_left oxidized_cut_copper_stairs:facing=north:half=top:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=north:half=top:shape=outer_left waxed_exposed_cut_copper_stairs:facing=north:half=top:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=top:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=north:half=top:shape=outer_left \
+			  purpur_stairs:facing=north:half=top:shape=outer_left cobblestone_stairs:facing=north:half=top:shape=outer_left \
+			  brick_stairs:facing=north:half=top:shape=outer_left stone_brick_stairs:facing=north:half=top:shape=outer_left \
+			  mud_brick_stairs:facing=north:half=top:shape=outer_left nether_brick_stairs:facing=north:half=top:shape=outer_left \
+			  sandstone_stairs:facing=north:half=top:shape=outer_left oak_stairs:facing=north:half=top:shape=outer_left \
+			  spruce_stairs:facing=north:half=top:shape=outer_left birch_stairs:facing=north:half=top:shape=outer_left \
+			  jungle_stairs:facing=north:half=top:shape=outer_left acacia_stairs:facing=north:half=top:shape=outer_left \
+			  dark_oak_stairs:facing=north:half=top:shape=outer_left mangrove_stairs:facing=north:half=top:shape=outer_left \
+			  crimson_stairs:facing=north:half=top:shape=outer_left warped_stairs:facing=north:half=top:shape=outer_left \
+			  quartz_stairs:facing=north:half=top:shape=outer_left prismarine_stairs:facing=north:half=top:shape=outer_left \
+			  prismarine_brick_stairs:facing=north:half=top:shape=outer_left dark_prismarine_stairs:facing=north:half=top:shape=outer_left \
+			  red_sandstone_stairs:facing=north:half=top:shape=outer_left polished_granite_stairs:facing=north:half=top:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=north:half=top:shape=outer_left mossy_stone_brick_stairs:facing=north:half=top:shape=outer_left \
+			  polished_diorite_stairs:facing=north:half=top:shape=outer_left mossy_cobblestone_stairs:facing=north:half=top:shape=outer_left \
+			  end_stone_brick_stairs:facing=north:half=top:shape=outer_left stone_stairs:facing=north:half=top:shape=outer_left \
+			  smooth_sandstone_stairs:facing=north:half=top:shape=outer_left smooth_quartz_stairs:facing=north:half=top:shape=outer_left \
+			  granite_stairs:facing=north:half=top:shape=outer_left andesite_stairs:facing=north:half=top:shape=outer_left \
+			  red_nether_brick_stairs:facing=north:half=top:shape=outer_left polished_andesite_stairs:facing=north:half=top:shape=outer_left \
+			  diorite_stairs:facing=north:half=top:shape=outer_left cobbled_deepslate_stairs:facing=north:half=top:shape=outer_left \
+			  polished_deepslate_stairs:facing=north:half=top:shape=outer_left deepslate_brick_stairs:facing=north:half=top:shape=outer_left \
+			  deepslate_tile_stairs:facing=north:half=top:shape=outer_left blackstone_stairs:facing=north:half=top:shape=outer_left \
+			  polished_blackstone_stairs:facing=north:half=top:shape=outer_left polished_blackstone_brick_stairs:facing=north:half=top:shape=outer_left \
+			  bamboo_stairs:facing=north:half=top:shape=outer_left bamboo_mosaic_stairs:facing=north:half=top:shape=outer_left \
+			  cherry_stairs:facing=north:half=top:shape=outer_left pale_oak_stairs:facing=north:half=top:shape=outer_left \
+			  resin_brick_stairs:facing=north:half=top:shape=outer_left tuff_stairs:facing=north:half=top:shape=outer_left \
+			  polished_tuff_stairs:facing=north:half=top:shape=outer_left tuff_brick_stairs:facing=north:half=top:shape=outer_left \
+			  cut_copper_stairs:facing=west:half=top:shape=outer_right exposed_cut_copper_stairs:facing=west:half=top:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=west:half=top:shape=outer_right oxidized_cut_copper_stairs:facing=west:half=top:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=west:half=top:shape=outer_right waxed_exposed_cut_copper_stairs:facing=west:half=top:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=top:shape=outer_right waxed_oxidized_cut_copper_stairs:facing=west:half=top:shape=outer_right \
+			  purpur_stairs:facing=west:half=top:shape=outer_right cobblestone_stairs:facing=west:half=top:shape=outer_right \
+			  brick_stairs:facing=west:half=top:shape=outer_right stone_brick_stairs:facing=west:half=top:shape=outer_right \
+			  mud_brick_stairs:facing=west:half=top:shape=outer_right nether_brick_stairs:facing=west:half=top:shape=outer_right \
+			  sandstone_stairs:facing=west:half=top:shape=outer_right oak_stairs:facing=west:half=top:shape=outer_right \
+			  spruce_stairs:facing=west:half=top:shape=outer_right birch_stairs:facing=west:half=top:shape=outer_right \
+			  jungle_stairs:facing=west:half=top:shape=outer_right acacia_stairs:facing=west:half=top:shape=outer_right \
+			  dark_oak_stairs:facing=west:half=top:shape=outer_right mangrove_stairs:facing=west:half=top:shape=outer_right \
+			  crimson_stairs:facing=west:half=top:shape=outer_right warped_stairs:facing=west:half=top:shape=outer_right \
+			  quartz_stairs:facing=west:half=top:shape=outer_right prismarine_stairs:facing=west:half=top:shape=outer_right \
+			  prismarine_brick_stairs:facing=west:half=top:shape=outer_right dark_prismarine_stairs:facing=west:half=top:shape=outer_right \
+			  red_sandstone_stairs:facing=west:half=top:shape=outer_right polished_granite_stairs:facing=west:half=top:shape=outer_right \
+			  smooth_red_sandstone_stairs:facing=west:half=top:shape=outer_right mossy_stone_brick_stairs:facing=west:half=top:shape=outer_right \
+			  polished_diorite_stairs:facing=west:half=top:shape=outer_right mossy_cobblestone_stairs:facing=west:half=top:shape=outer_right \
+			  end_stone_brick_stairs:facing=west:half=top:shape=outer_right stone_stairs:facing=west:half=top:shape=outer_right \
+			  smooth_sandstone_stairs:facing=west:half=top:shape=outer_right smooth_quartz_stairs:facing=west:half=top:shape=outer_right \
+			  granite_stairs:facing=west:half=top:shape=outer_right andesite_stairs:facing=west:half=top:shape=outer_right \
+			  red_nether_brick_stairs:facing=west:half=top:shape=outer_right polished_andesite_stairs:facing=west:half=top:shape=outer_right \
+			  diorite_stairs:facing=west:half=top:shape=outer_right cobbled_deepslate_stairs:facing=west:half=top:shape=outer_right \
+			  polished_deepslate_stairs:facing=west:half=top:shape=outer_right deepslate_brick_stairs:facing=west:half=top:shape=outer_right \
+			  deepslate_tile_stairs:facing=west:half=top:shape=outer_right blackstone_stairs:facing=west:half=top:shape=outer_right \
+			  polished_blackstone_stairs:facing=west:half=top:shape=outer_right polished_blackstone_brick_stairs:facing=west:half=top:shape=outer_right \
+			  bamboo_stairs:facing=west:half=top:shape=outer_right bamboo_mosaic_stairs:facing=west:half=top:shape=outer_right \
+			  cherry_stairs:facing=west:half=top:shape=outer_right pale_oak_stairs:facing=west:half=top:shape=outer_right \
+			  resin_brick_stairs:facing=west:half=top:shape=outer_right tuff_stairs:facing=west:half=top:shape=outer_right \
+			  polished_tuff_stairs:facing=west:half=top:shape=outer_right tuff_brick_stairs:facing=west:half=top:shape=outer_right \
+
+// 14.stairs:facing=east:half=top:shape=outer_left & 
+
+cut_copper_stairs:facing=east:half=top:shape=outer_left exposed_cut_copper_stairs:facing=east:half=top:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=east:half=top:shape=outer_left oxidized_cut_copper_stairs:facing=east:half=top:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=east:half=top:shape=outer_left waxed_exposed_cut_copper_stairs:facing=east:half=top:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=top:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=east:half=top:shape=outer_left \
+			  purpur_stairs:facing=east:half=top:shape=outer_left cobblestone_stairs:facing=east:half=top:shape=outer_left \
+			  brick_stairs:facing=east:half=top:shape=outer_left stone_brick_stairs:facing=east:half=top:shape=outer_left \
+			  mud_brick_stairs:facing=east:half=top:shape=outer_left nether_brick_stairs:facing=east:half=top:shape=outer_left \
+			  sandstone_stairs:facing=east:half=top:shape=outer_left oak_stairs:facing=east:half=top:shape=outer_left \
+			  spruce_stairs:facing=east:half=top:shape=outer_left birch_stairs:facing=east:half=top:shape=outer_left \
+			  jungle_stairs:facing=east:half=top:shape=outer_left acacia_stairs:facing=east:half=top:shape=outer_left \
+			  dark_oak_stairs:facing=east:half=top:shape=outer_left mangrove_stairs:facing=east:half=top:shape=outer_left \
+			  crimson_stairs:facing=east:half=top:shape=outer_left warped_stairs:facing=east:half=top:shape=outer_left \
+			  quartz_stairs:facing=east:half=top:shape=outer_left prismarine_stairs:facing=east:half=top:shape=outer_left \
+			  prismarine_brick_stairs:facing=east:half=top:shape=outer_left dark_prismarine_stairs:facing=east:half=top:shape=outer_left \
+			  red_sandstone_stairs:facing=east:half=top:shape=outer_left polished_granite_stairs:facing=east:half=top:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=east:half=top:shape=outer_left mossy_stone_brick_stairs:facing=east:half=top:shape=outer_left \
+			  polished_diorite_stairs:facing=east:half=top:shape=outer_left mossy_cobblestone_stairs:facing=east:half=top:shape=outer_left \
+			  end_stone_brick_stairs:facing=east:half=top:shape=outer_left stone_stairs:facing=east:half=top:shape=outer_left \
+			  smooth_sandstone_stairs:facing=east:half=top:shape=outer_left smooth_quartz_stairs:facing=east:half=top:shape=outer_left \
+			  granite_stairs:facing=east:half=top:shape=outer_left andesite_stairs:facing=east:half=top:shape=outer_left \
+			  red_nether_brick_stairs:facing=east:half=top:shape=outer_left polished_andesite_stairs:facing=east:half=top:shape=outer_left \
+			  diorite_stairs:facing=east:half=top:shape=outer_left cobbled_deepslate_stairs:facing=east:half=top:shape=outer_left \
+			  polished_deepslate_stairs:facing=east:half=top:shape=outer_left deepslate_brick_stairs:facing=east:half=top:shape=outer_left \
+			  deepslate_tile_stairs:facing=east:half=top:shape=outer_left blackstone_stairs:facing=east:half=top:shape=outer_left \
+			  polished_blackstone_stairs:facing=east:half=top:shape=outer_left polished_blackstone_brick_stairs:facing=east:half=top:shape=outer_left \
+			  bamboo_stairs:facing=east:half=top:shape=outer_left bamboo_mosaic_stairs:facing=east:half=top:shape=outer_left \
+			  cherry_stairs:facing=east:half=top:shape=outer_left pale_oak_stairs:facing=east:half=top:shape=outer_left \
+			  resin_brick_stairs:facing=east:half=top:shape=outer_left tuff_stairs:facing=east:half=top:shape=outer_left \
+			  polished_tuff_stairs:facing=east:half=top:shape=outer_left tuff_brick_stairs:facing=east:half=top:shape=outer_left \
+			  cut_copper_stairs:facing=north:half=top:shape=outer_right exposed_cut_copper_stairs:facing=north:half=top:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=north:half=top:shape=outer_right oxidized_cut_copper_stairs:facing=north:half=top:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=north:half=top:shape=outer_right waxed_exposed_cut_copper_stairs:facing=north:half=top:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=top:shape=outer_right waxed_oxidized_cut_copper_stairs:facing=north:half=top:shape=outer_right \
+			  purpur_stairs:facing=north:half=top:shape=outer_right cobblestone_stairs:facing=north:half=top:shape=outer_right \
+			  brick_stairs:facing=north:half=top:shape=outer_right stone_brick_stairs:facing=north:half=top:shape=outer_right \
+			  mud_brick_stairs:facing=north:half=top:shape=outer_right nether_brick_stairs:facing=north:half=top:shape=outer_right \
+			  sandstone_stairs:facing=north:half=top:shape=outer_right oak_stairs:facing=north:half=top:shape=outer_right \
+			  spruce_stairs:facing=north:half=top:shape=outer_right birch_stairs:facing=north:half=top:shape=outer_right \
+			  jungle_stairs:facing=north:half=top:shape=outer_right acacia_stairs:facing=north:half=top:shape=outer_right \
+			  dark_oak_stairs:facing=north:half=top:shape=outer_right mangrove_stairs:facing=north:half=top:shape=outer_right \
+			  crimson_stairs:facing=north:half=top:shape=outer_right warped_stairs:facing=north:half=top:shape=outer_right \
+			  quartz_stairs:facing=north:half=top:shape=outer_right prismarine_stairs:facing=north:half=top:shape=outer_right \
+			  prismarine_brick_stairs:facing=north:half=top:shape=outer_right dark_prismarine_stairs:facing=north:half=top:shape=outer_right \
+			  red_sandstone_stairs:facing=north:half=top:shape=outer_right polished_granite_stairs:facing=north:half=top:shape=outer_right \
+			  smooth_red_sandstone_stairs:facing=north:half=top:shape=outer_right mossy_stone_brick_stairs:facing=north:half=top:shape=outer_right \
+			  polished_diorite_stairs:facing=north:half=top:shape=outer_right mossy_cobblestone_stairs:facing=north:half=top:shape=outer_right \
+			  end_stone_brick_stairs:facing=north:half=top:shape=outer_right stone_stairs:facing=north:half=top:shape=outer_right \
+			  smooth_sandstone_stairs:facing=north:half=top:shape=outer_right smooth_quartz_stairs:facing=north:half=top:shape=outer_right \
+			  granite_stairs:facing=north:half=top:shape=outer_right andesite_stairs:facing=north:half=top:shape=outer_right \
+			  red_nether_brick_stairs:facing=north:half=top:shape=outer_right polished_andesite_stairs:facing=north:half=top:shape=outer_right \
+			  diorite_stairs:facing=north:half=top:shape=outer_right cobbled_deepslate_stairs:facing=north:half=top:shape=outer_right \
+			  polished_deepslate_stairs:facing=north:half=top:shape=outer_right deepslate_brick_stairs:facing=north:half=top:shape=outer_right \
+			  deepslate_tile_stairs:facing=north:half=top:shape=outer_right blackstone_stairs:facing=north:half=top:shape=outer_right \
+			  polished_blackstone_stairs:facing=north:half=top:shape=outer_right polished_blackstone_brick_stairs:facing=north:half=top:shape=outer_right \
+			  bamboo_stairs:facing=north:half=top:shape=outer_right bamboo_mosaic_stairs:facing=north:half=top:shape=outer_right \
+			  cherry_stairs:facing=north:half=top:shape=outer_right pale_oak_stairs:facing=north:half=top:shape=outer_right \
+			  resin_brick_stairs:facing=north:half=top:shape=outer_right tuff_stairs:facing=north:half=top:shape=outer_right \
+			  polished_tuff_stairs:facing=north:half=top:shape=outer_right tuff_brick_stairs:facing=north:half=top:shape=outer_right \
+
+// 15.stairs:facing=west:half=top:shape=outer_left & facing=south:half=top:shape=outer_right
+
+cut_copper_stairs:facing=west:half=top:shape=outer_left exposed_cut_copper_stairs:facing=west:half=top:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=west:half=top:shape=outer_left oxidized_cut_copper_stairs:facing=west:half=top:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=west:half=top:shape=outer_left waxed_exposed_cut_copper_stairs:facing=west:half=top:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=top:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=west:half=top:shape=outer_left \
+			  purpur_stairs:facing=west:half=top:shape=outer_left cobblestone_stairs:facing=west:half=top:shape=outer_left \
+			  brick_stairs:facing=west:half=top:shape=outer_left stone_brick_stairs:facing=west:half=top:shape=outer_left \
+			  mud_brick_stairs:facing=west:half=top:shape=outer_left nether_brick_stairs:facing=west:half=top:shape=outer_left \
+			  sandstone_stairs:facing=west:half=top:shape=outer_left oak_stairs:facing=west:half=top:shape=outer_left \
+			  spruce_stairs:facing=west:half=top:shape=outer_left birch_stairs:facing=west:half=top:shape=outer_left \
+			  jungle_stairs:facing=west:half=top:shape=outer_left acacia_stairs:facing=west:half=top:shape=outer_left \
+			  dark_oak_stairs:facing=west:half=top:shape=outer_left mangrove_stairs:facing=west:half=top:shape=outer_left \
+			  crimson_stairs:facing=west:half=top:shape=outer_left warped_stairs:facing=west:half=top:shape=outer_left \
+			  quartz_stairs:facing=west:half=top:shape=outer_left prismarine_stairs:facing=west:half=top:shape=outer_left \
+			  prismarine_brick_stairs:facing=west:half=top:shape=outer_left dark_prismarine_stairs:facing=west:half=top:shape=outer_left \
+			  red_sandstone_stairs:facing=west:half=top:shape=outer_left polished_granite_stairs:facing=west:half=top:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=west:half=top:shape=outer_left mossy_stone_brick_stairs:facing=west:half=top:shape=outer_left \
+			  polished_diorite_stairs:facing=west:half=top:shape=outer_left mossy_cobblestone_stairs:facing=west:half=top:shape=outer_left \
+			  end_stone_brick_stairs:facing=west:half=top:shape=outer_left stone_stairs:facing=west:half=top:shape=outer_left \
+			  smooth_sandstone_stairs:facing=west:half=top:shape=outer_left smooth_quartz_stairs:facing=west:half=top:shape=outer_left \
+			  granite_stairs:facing=west:half=top:shape=outer_left andesite_stairs:facing=west:half=top:shape=outer_left \
+			  red_nether_brick_stairs:facing=west:half=top:shape=outer_left polished_andesite_stairs:facing=west:half=top:shape=outer_left \
+			  diorite_stairs:facing=west:half=top:shape=outer_left cobbled_deepslate_stairs:facing=west:half=top:shape=outer_left \
+			  polished_deepslate_stairs:facing=west:half=top:shape=outer_left deepslate_brick_stairs:facing=west:half=top:shape=outer_left \
+			  deepslate_tile_stairs:facing=west:half=top:shape=outer_left blackstone_stairs:facing=west:half=top:shape=outer_left \
+			  polished_blackstone_stairs:facing=west:half=top:shape=outer_left polished_blackstone_brick_stairs:facing=west:half=top:shape=outer_left \
+			  bamboo_stairs:facing=west:half=top:shape=outer_left bamboo_mosaic_stairs:facing=west:half=top:shape=outer_left \
+			  cherry_stairs:facing=west:half=top:shape=outer_left pale_oak_stairs:facing=west:half=top:shape=outer_left \
+			  resin_brick_stairs:facing=west:half=top:shape=outer_left tuff_stairs:facing=west:half=top:shape=outer_left \
+			  polished_tuff_stairs:facing=west:half=top:shape=outer_left tuff_brick_stairs:facing=west:half=top:shape=outer_left \
+			  cut_copper_stairs:facing=south:half=top:shape=outer_right exposed_cut_copper_stairs:facing=south:half=top:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=south:half=top:shape=outer_right oxidized_cut_copper_stairs:facing=south:half=top:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=south:half=top:shape=outer_right waxed_exposed_cut_copper_stairs:facing=south:half=top:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=top:shape=outer_right waxed_oxidized_cut_copper_stairs:facing=south:half=top:shape=outer_right \
+			  purpur_stairs:facing=south:half=top:shape=outer_right cobblestone_stairs:facing=south:half=top:shape=outer_right \
+			  brick_stairs:facing=south:half=top:shape=outer_right stone_brick_stairs:facing=south:half=top:shape=outer_right \
+			  mud_brick_stairs:facing=south:half=top:shape=outer_right nether_brick_stairs:facing=south:half=top:shape=outer_right \
+			  sandstone_stairs:facing=south:half=top:shape=outer_right oak_stairs:facing=south:half=top:shape=outer_right \
+			  spruce_stairs:facing=south:half=top:shape=outer_right birch_stairs:facing=south:half=top:shape=outer_right \
+			  jungle_stairs:facing=south:half=top:shape=outer_right acacia_stairs:facing=south:half=top:shape=outer_right \
+			  dark_oak_stairs:facing=south:half=top:shape=outer_right mangrove_stairs:facing=south:half=top:shape=outer_right \
+			  crimson_stairs:facing=south:half=top:shape=outer_right warped_stairs:facing=south:half=top:shape=outer_right \
+			  quartz_stairs:facing=south:half=top:shape=outer_right prismarine_stairs:facing=south:half=top:shape=outer_right \
+			  prismarine_brick_stairs:facing=south:half=top:shape=outer_right dark_prismarine_stairs:facing=south:half=top:shape=outer_right \
+			  red_sandstone_stairs:facing=south:half=top:shape=outer_right polished_granite_stairs:facing=south:half=top:shape=outer_right \
+			  smooth_red_sandstone_stairs:facing=south:half=top:shape=outer_right mossy_stone_brick_stairs:facing=south:half=top:shape=outer_right \
+			  polished_diorite_stairs:facing=south:half=top:shape=outer_right mossy_cobblestone_stairs:facing=south:half=top:shape=outer_right \
+			  end_stone_brick_stairs:facing=south:half=top:shape=outer_right stone_stairs:facing=south:half=top:shape=outer_right \
+			  smooth_sandstone_stairs:facing=south:half=top:shape=outer_right smooth_quartz_stairs:facing=south:half=top:shape=outer_right \
+			  granite_stairs:facing=south:half=top:shape=outer_right andesite_stairs:facing=south:half=top:shape=outer_right \
+			  red_nether_brick_stairs:facing=south:half=top:shape=outer_right polished_andesite_stairs:facing=south:half=top:shape=outer_right \
+			  diorite_stairs:facing=south:half=top:shape=outer_right cobbled_deepslate_stairs:facing=south:half=top:shape=outer_right \
+			  polished_deepslate_stairs:facing=south:half=top:shape=outer_right deepslate_brick_stairs:facing=south:half=top:shape=outer_right \
+			  deepslate_tile_stairs:facing=south:half=top:shape=outer_right blackstone_stairs:facing=south:half=top:shape=outer_right \
+			  polished_blackstone_stairs:facing=south:half=top:shape=outer_right polished_blackstone_brick_stairs:facing=south:half=top:shape=outer_right \
+			  bamboo_stairs:facing=south:half=top:shape=outer_right bamboo_mosaic_stairs:facing=south:half=top:shape=outer_right \
+			  cherry_stairs:facing=south:half=top:shape=outer_right pale_oak_stairs:facing=south:half=top:shape=outer_right \
+			  resin_brick_stairs:facing=south:half=top:shape=outer_right tuff_stairs:facing=south:half=top:shape=outer_right \
+			  polished_tuff_stairs:facing=south:half=top:shape=outer_right tuff_brick_stairs:facing=south:half=top:shape=outer_right \
+
+// 16.stairs:facing=south:half=top:shape=outer_left & facing=east:half=top:shape=outer_right
+
+cut_copper_stairs:facing=south:half=top:shape=outer_left exposed_cut_copper_stairs:facing=south:half=top:shape=outer_left \
+			  weathered_cut_copper_stairs:facing=south:half=top:shape=outer_left oxidized_cut_copper_stairs:facing=south:half=top:shape=outer_left \
+			  waxed_cut_copper_stairs:facing=south:half=top:shape=outer_left waxed_exposed_cut_copper_stairs:facing=south:half=top:shape=outer_left \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=top:shape=outer_left waxed_oxidized_cut_copper_stairs:facing=south:half=top:shape=outer_left \
+			  purpur_stairs:facing=south:half=top:shape=outer_left cobblestone_stairs:facing=south:half=top:shape=outer_left \
+			  brick_stairs:facing=south:half=top:shape=outer_left stone_brick_stairs:facing=south:half=top:shape=outer_left \
+			  mud_brick_stairs:facing=south:half=top:shape=outer_left nether_brick_stairs:facing=south:half=top:shape=outer_left \
+			  sandstone_stairs:facing=south:half=top:shape=outer_left oak_stairs:facing=south:half=top:shape=outer_left \
+			  spruce_stairs:facing=south:half=top:shape=outer_left birch_stairs:facing=south:half=top:shape=outer_left \
+			  jungle_stairs:facing=south:half=top:shape=outer_left acacia_stairs:facing=south:half=top:shape=outer_left \
+			  dark_oak_stairs:facing=south:half=top:shape=outer_left mangrove_stairs:facing=south:half=top:shape=outer_left \
+			  crimson_stairs:facing=south:half=top:shape=outer_left warped_stairs:facing=south:half=top:shape=outer_left \
+			  quartz_stairs:facing=south:half=top:shape=outer_left prismarine_stairs:facing=south:half=top:shape=outer_left \
+			  prismarine_brick_stairs:facing=south:half=top:shape=outer_left dark_prismarine_stairs:facing=south:half=top:shape=outer_left \
+			  red_sandstone_stairs:facing=south:half=top:shape=outer_left polished_granite_stairs:facing=south:half=top:shape=outer_left \
+			  smooth_red_sandstone_stairs:facing=south:half=top:shape=outer_left mossy_stone_brick_stairs:facing=south:half=top:shape=outer_left \
+			  polished_diorite_stairs:facing=south:half=top:shape=outer_left mossy_cobblestone_stairs:facing=south:half=top:shape=outer_left \
+			  end_stone_brick_stairs:facing=south:half=top:shape=outer_left stone_stairs:facing=south:half=top:shape=outer_left \
+			  smooth_sandstone_stairs:facing=south:half=top:shape=outer_left smooth_quartz_stairs:facing=south:half=top:shape=outer_left \
+			  granite_stairs:facing=south:half=top:shape=outer_left andesite_stairs:facing=south:half=top:shape=outer_left \
+			  red_nether_brick_stairs:facing=south:half=top:shape=outer_left polished_andesite_stairs:facing=south:half=top:shape=outer_left \
+			  diorite_stairs:facing=south:half=top:shape=outer_left cobbled_deepslate_stairs:facing=south:half=top:shape=outer_left \
+			  polished_deepslate_stairs:facing=south:half=top:shape=outer_left deepslate_brick_stairs:facing=south:half=top:shape=outer_left \
+			  deepslate_tile_stairs:facing=south:half=top:shape=outer_left blackstone_stairs:facing=south:half=top:shape=outer_left \
+			  polished_blackstone_stairs:facing=south:half=top:shape=outer_left polished_blackstone_brick_stairs:facing=south:half=top:shape=outer_left \
+			  bamboo_stairs:facing=south:half=top:shape=outer_left bamboo_mosaic_stairs:facing=south:half=top:shape=outer_left \
+			  cherry_stairs:facing=south:half=top:shape=outer_left pale_oak_stairs:facing=south:half=top:shape=outer_left \
+			  resin_brick_stairs:facing=south:half=top:shape=outer_left tuff_stairs:facing=south:half=top:shape=outer_left \
+			  polished_tuff_stairs:facing=south:half=top:shape=outer_left tuff_brick_stairs:facing=south:half=top:shape=outer_left \
+			  cut_copper_stairs:facing=east:half=top:shape=outer_right exposed_cut_copper_stairs:facing=east:half=top:shape=outer_right \
+			  weathered_cut_copper_stairs:facing=east:half=top:shape=outer_right oxidized_cut_copper_stairs:facing=east:half=top:shape=outer_right \
+			  waxed_cut_copper_stairs:facing=east:half=top:shape=outer_right waxed_exposed_cut_copper_stairs:facing=east:half=top:shape=outer_right \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=top:shape=outer_right waxed_oxidized_cut_copper_stairs:facing=east:half=top:shape=outer_right \
+			  purpur_stairs:facing=east:half=top:shape=outer_right cobblestone_stairs:facing=east:half=top:shape=outer_right \
+			  brick_stairs:facing=east:half=top:shape=outer_right stone_brick_stairs:facing=east:half=top:shape=outer_right \
+			  mud_brick_stairs:facing=east:half=top:shape=outer_right nether_brick_stairs:facing=east:half=top:shape=outer_right \
+			  sandstone_stairs:facing=east:half=top:shape=outer_right oak_stairs:facing=east:half=top:shape=outer_right \
+			  spruce_stairs:facing=east:half=top:shape=outer_right birch_stairs:facing=east:half=top:shape=outer_right \
+			  jungle_stairs:facing=east:half=top:shape=outer_right acacia_stairs:facing=east:half=top:shape=outer_right \
+			  dark_oak_stairs:facing=east:half=top:shape=outer_right mangrove_stairs:facing=east:half=top:shape=outer_right \
+			  crimson_stairs:facing=east:half=top:shape=outer_right warped_stairs:facing=east:half=top:shape=outer_right \
+			  quartz_stairs:facing=east:half=top:shape=outer_right prismarine_stairs:facing=east:half=top:shape=outer_right \
+			  prismarine_brick_stairs:facing=east:half=top:shape=outer_right dark_prismarine_stairs:facing=east:half=top:shape=outer_right \
+			  red_sandstone_stairs:facing=east:half=top:shape=outer_right polished_granite_stairs:facing=east:half=top:shape=outer_right \
+			  smooth_red_sandstone_stairs:facing=east:half=top:shape=outer_right mossy_stone_brick_stairs:facing=east:half=top:shape=outer_right \
+			  polished_diorite_stairs:facing=east:half=top:shape=outer_right mossy_cobblestone_stairs:facing=east:half=top:shape=outer_right \
+			  end_stone_brick_stairs:facing=east:half=top:shape=outer_right stone_stairs:facing=east:half=top:shape=outer_right \
+			  smooth_sandstone_stairs:facing=east:half=top:shape=outer_right smooth_quartz_stairs:facing=east:half=top:shape=outer_right \
+			  granite_stairs:facing=east:half=top:shape=outer_right andesite_stairs:facing=east:half=top:shape=outer_right \
+			  red_nether_brick_stairs:facing=east:half=top:shape=outer_right polished_andesite_stairs:facing=east:half=top:shape=outer_right \
+			  diorite_stairs:facing=east:half=top:shape=outer_right cobbled_deepslate_stairs:facing=east:half=top:shape=outer_right \
+			  polished_deepslate_stairs:facing=east:half=top:shape=outer_right deepslate_brick_stairs:facing=east:half=top:shape=outer_right \
+			  deepslate_tile_stairs:facing=east:half=top:shape=outer_right blackstone_stairs:facing=east:half=top:shape=outer_right \
+			  polished_blackstone_stairs:facing=east:half=top:shape=outer_right polished_blackstone_brick_stairs:facing=east:half=top:shape=outer_right \
+			  bamboo_stairs:facing=east:half=top:shape=outer_right bamboo_mosaic_stairs:facing=east:half=top:shape=outer_right \
+			  cherry_stairs:facing=east:half=top:shape=outer_right pale_oak_stairs:facing=east:half=top:shape=outer_right \
+			  resin_brick_stairs:facing=east:half=top:shape=outer_right tuff_stairs:facing=east:half=top:shape=outer_right \
+			  polished_tuff_stairs:facing=east:half=top:shape=outer_right tuff_brick_stairs:facing=east:half=top:shape=outer_right \
+
+// Stairs - Inner
+// 17.stairs:facing=north:half=bottom:shape=inner_left & facing=west:half=bottom:shape=inner_right
+
+cut_copper_stairs:facing=north:half=bottom:shape=inner_left exposed_cut_copper_stairs:facing=north:half=bottom:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=north:half=bottom:shape=inner_left oxidized_cut_copper_stairs:facing=north:half=bottom:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=north:half=bottom:shape=inner_left waxed_exposed_cut_copper_stairs:facing=north:half=bottom:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=bottom:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=north:half=bottom:shape=inner_left \
+			  purpur_stairs:facing=north:half=bottom:shape=inner_left cobblestone_stairs:facing=north:half=bottom:shape=inner_left \
+			  brick_stairs:facing=north:half=bottom:shape=inner_left stone_brick_stairs:facing=north:half=bottom:shape=inner_left \
+			  mud_brick_stairs:facing=north:half=bottom:shape=inner_left nether_brick_stairs:facing=north:half=bottom:shape=inner_left \
+			  sandstone_stairs:facing=north:half=bottom:shape=inner_left oak_stairs:facing=north:half=bottom:shape=inner_left \
+			  spruce_stairs:facing=north:half=bottom:shape=inner_left birch_stairs:facing=north:half=bottom:shape=inner_left \
+			  jungle_stairs:facing=north:half=bottom:shape=inner_left acacia_stairs:facing=north:half=bottom:shape=inner_left \
+			  dark_oak_stairs:facing=north:half=bottom:shape=inner_left mangrove_stairs:facing=north:half=bottom:shape=inner_left \
+			  crimson_stairs:facing=north:half=bottom:shape=inner_left warped_stairs:facing=north:half=bottom:shape=inner_left \
+			  quartz_stairs:facing=north:half=bottom:shape=inner_left prismarine_stairs:facing=north:half=bottom:shape=inner_left \
+			  prismarine_brick_stairs:facing=north:half=bottom:shape=inner_left dark_prismarine_stairs:facing=north:half=bottom:shape=inner_left \
+			  red_sandstone_stairs:facing=north:half=bottom:shape=inner_left polished_granite_stairs:facing=north:half=bottom:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=north:half=bottom:shape=inner_left mossy_stone_brick_stairs:facing=north:half=bottom:shape=inner_left \
+			  polished_diorite_stairs:facing=north:half=bottom:shape=inner_left mossy_cobblestone_stairs:facing=north:half=bottom:shape=inner_left \
+			  end_stone_brick_stairs:facing=north:half=bottom:shape=inner_left stone_stairs:facing=north:half=bottom:shape=inner_left \
+			  smooth_sandstone_stairs:facing=north:half=bottom:shape=inner_left smooth_quartz_stairs:facing=north:half=bottom:shape=inner_left \
+			  granite_stairs:facing=north:half=bottom:shape=inner_left andesite_stairs:facing=north:half=bottom:shape=inner_left \
+			  red_nether_brick_stairs:facing=north:half=bottom:shape=inner_left polished_andesite_stairs:facing=north:half=bottom:shape=inner_left \
+			  diorite_stairs:facing=north:half=bottom:shape=inner_left cobbled_deepslate_stairs:facing=north:half=bottom:shape=inner_left \
+			  polished_deepslate_stairs:facing=north:half=bottom:shape=inner_left deepslate_brick_stairs:facing=north:half=bottom:shape=inner_left \
+			  deepslate_tile_stairs:facing=north:half=bottom:shape=inner_left blackstone_stairs:facing=north:half=bottom:shape=inner_left \
+			  polished_blackstone_stairs:facing=north:half=bottom:shape=inner_left polished_blackstone_brick_stairs:facing=north:half=bottom:shape=inner_left \
+			  bamboo_stairs:facing=north:half=bottom:shape=inner_left bamboo_mosaic_stairs:facing=north:half=bottom:shape=inner_left \
+			  cherry_stairs:facing=north:half=bottom:shape=inner_left pale_oak_stairs:facing=north:half=bottom:shape=inner_left \
+			  resin_brick_stairs:facing=north:half=bottom:shape=inner_left tuff_stairs:facing=north:half=bottom:shape=inner_left \
+			  cut_copper_stairs:facing=west:half=bottom:shape=inner_right exposed_cut_copper_stairs:facing=west:half=bottom:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=west:half=bottom:shape=inner_right oxidized_cut_copper_stairs:facing=west:half=bottom:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=west:half=bottom:shape=inner_right waxed_exposed_cut_copper_stairs:facing=west:half=bottom:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=bottom:shape=inner_right waxed_oxidized_cut_copper_stairs:facing=west:half=bottom:shape=inner_right \
+			  purpur_stairs:facing=west:half=bottom:shape=inner_right cobblestone_stairs:facing=west:half=bottom:shape=inner_right \
+			  brick_stairs:facing=west:half=bottom:shape=inner_right stone_brick_stairs:facing=west:half=bottom:shape=inner_right \
+			  mud_brick_stairs:facing=west:half=bottom:shape=inner_right nether_brick_stairs:facing=west:half=bottom:shape=inner_right \
+			  sandstone_stairs:facing=west:half=bottom:shape=inner_right oak_stairs:facing=west:half=bottom:shape=inner_right \
+			  spruce_stairs:facing=west:half=bottom:shape=inner_right birch_stairs:facing=west:half=bottom:shape=inner_right \
+			  jungle_stairs:facing=west:half=bottom:shape=inner_right acacia_stairs:facing=west:half=bottom:shape=inner_right \
+			  dark_oak_stairs:facing=west:half=bottom:shape=inner_right mangrove_stairs:facing=west:half=bottom:shape=inner_right \
+			  crimson_stairs:facing=west:half=bottom:shape=inner_right warped_stairs:facing=west:half=bottom:shape=inner_right \
+			  quartz_stairs:facing=west:half=bottom:shape=inner_right prismarine_stairs:facing=west:half=bottom:shape=inner_right \
+			  prismarine_brick_stairs:facing=west:half=bottom:shape=inner_right dark_prismarine_stairs:facing=west:half=bottom:shape=inner_right \
+			  red_sandstone_stairs:facing=west:half=bottom:shape=inner_right polished_granite_stairs:facing=west:half=bottom:shape=inner_right \
+			  smooth_red_sandstone_stairs:facing=west:half=bottom:shape=inner_right mossy_stone_brick_stairs:facing=west:half=bottom:shape=inner_right \
+			  polished_diorite_stairs:facing=west:half=bottom:shape=inner_right mossy_cobblestone_stairs:facing=west:half=bottom:shape=inner_right \
+			  end_stone_brick_stairs:facing=west:half=bottom:shape=inner_right stone_stairs:facing=west:half=bottom:shape=inner_right \
+			  smooth_sandstone_stairs:facing=west:half=bottom:shape=inner_right smooth_quartz_stairs:facing=west:half=bottom:shape=inner_right \
+			  granite_stairs:facing=west:half=bottom:shape=inner_right andesite_stairs:facing=west:half=bottom:shape=inner_right \
+			  red_nether_brick_stairs:facing=west:half=bottom:shape=inner_right polished_andesite_stairs:facing=west:half=bottom:shape=inner_right \
+			  diorite_stairs:facing=west:half=bottom:shape=inner_right cobbled_deepslate_stairs:facing=west:half=bottom:shape=inner_right \
+			  polished_deepslate_stairs:facing=west:half=bottom:shape=inner_right deepslate_brick_stairs:facing=west:half=bottom:shape=inner_right \
+			  deepslate_tile_stairs:facing=west:half=bottom:shape=inner_right blackstone_stairs:facing=west:half=bottom:shape=inner_right \
+			  polished_blackstone_stairs:facing=west:half=bottom:shape=inner_right polished_blackstone_brick_stairs:facing=west:half=bottom:shape=inner_right \
+			  bamboo_stairs:facing=west:half=bottom:shape=inner_right bamboo_mosaic_stairs:facing=west:half=bottom:shape=inner_right \
+			  cherry_stairs:facing=west:half=bottom:shape=inner_right pale_oak_stairs:facing=west:half=bottom:shape=inner_right \
+			  resin_brick_stairs:facing=west:half=bottom:shape=inner_right tuff_stairs:facing=west:half=bottom:shape=inner_right \
+			  polished_tuff_stairs:facing=west:half=bottom:shape=inner_right tuff_brick_stairs:facing=west:half=bottom:shape=inner_right \
+
+// 18.stairs:facing=east:half=bottom:shape=inner_left & facing=north:half=bottom:shape=inner_right
+
+cut_copper_stairs:facing=east:half=bottom:shape=inner_left exposed_cut_copper_stairs:facing=east:half=bottom:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=east:half=bottom:shape=inner_left oxidized_cut_copper_stairs:facing=east:half=bottom:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=east:half=bottom:shape=inner_left waxed_exposed_cut_copper_stairs:facing=east:half=bottom:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=bottom:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=east:half=bottom:shape=inner_left \
+			  purpur_stairs:facing=east:half=bottom:shape=inner_left cobblestone_stairs:facing=east:half=bottom:shape=inner_left \
+			  brick_stairs:facing=east:half=bottom:shape=inner_left stone_brick_stairs:facing=east:half=bottom:shape=inner_left \
+			  mud_brick_stairs:facing=east:half=bottom:shape=inner_left nether_brick_stairs:facing=east:half=bottom:shape=inner_left \
+			  sandstone_stairs:facing=east:half=bottom:shape=inner_left oak_stairs:facing=east:half=bottom:shape=inner_left \
+			  spruce_stairs:facing=east:half=bottom:shape=inner_left birch_stairs:facing=east:half=bottom:shape=inner_left \
+			  jungle_stairs:facing=east:half=bottom:shape=inner_left acacia_stairs:facing=east:half=bottom:shape=inner_left \
+			  dark_oak_stairs:facing=east:half=bottom:shape=inner_left mangrove_stairs:facing=east:half=bottom:shape=inner_left \
+			  crimson_stairs:facing=east:half=bottom:shape=inner_left warped_stairs:facing=east:half=bottom:shape=inner_left \
+			  quartz_stairs:facing=east:half=bottom:shape=inner_left prismarine_stairs:facing=east:half=bottom:shape=inner_left \
+			  prismarine_brick_stairs:facing=east:half=bottom:shape=inner_left dark_prismarine_stairs:facing=east:half=bottom:shape=inner_left \
+			  red_sandstone_stairs:facing=east:half=bottom:shape=inner_left polished_granite_stairs:facing=east:half=bottom:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=east:half=bottom:shape=inner_left mossy_stone_brick_stairs:facing=east:half=bottom:shape=inner_left \
+			  polished_diorite_stairs:facing=east:half=bottom:shape=inner_left mossy_cobblestone_stairs:facing=east:half=bottom:shape=inner_left \
+			  end_stone_brick_stairs:facing=east:half=bottom:shape=inner_left stone_stairs:facing=east:half=bottom:shape=inner_left \
+			  smooth_sandstone_stairs:facing=east:half=bottom:shape=inner_left smooth_quartz_stairs:facing=east:half=bottom:shape=inner_left \
+			  granite_stairs:facing=east:half=bottom:shape=inner_left andesite_stairs:facing=east:half=bottom:shape=inner_left \
+			  red_nether_brick_stairs:facing=east:half=bottom:shape=inner_left polished_andesite_stairs:facing=east:half=bottom:shape=inner_left \
+			  diorite_stairs:facing=east:half=bottom:shape=inner_left cobbled_deepslate_stairs:facing=east:half=bottom:shape=inner_left \
+			  polished_deepslate_stairs:facing=east:half=bottom:shape=inner_left deepslate_brick_stairs:facing=east:half=bottom:shape=inner_left \
+			  deepslate_tile_stairs:facing=east:half=bottom:shape=inner_left blackstone_stairs:facing=east:half=bottom:shape=inner_left \
+			  polished_blackstone_stairs:facing=east:half=bottom:shape=inner_left polished_blackstone_brick_stairs:facing=east:half=bottom:shape=inner_left \
+			  bamboo_stairs:facing=east:half=bottom:shape=inner_left bamboo_mosaic_stairs:facing=east:half=bottom:shape=inner_left \
+			  cherry_stairs:facing=east:half=bottom:shape=inner_left pale_oak_stairs:facing=east:half=bottom:shape=inner_left \
+			  resin_brick_stairs:facing=east:half=bottom:shape=inner_left tuff_stairs:facing=east:half=bottom:shape=inner_left \
+			  polished_tuff_stairs:facing=east:half=bottom:shape=inner_left tuff_brick_stairs:facing=east:half=bottom:shape=inner_left \
+			  cut_copper_stairs:facing=north:half=bottom:shape=inner_right exposed_cut_copper_stairs:facing=north:half=bottom:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=north:half=bottom:shape=inner_right oxidized_cut_copper_stairs:facing=north:half=bottom:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=north:half=bottom:shape=inner_right waxed_exposed_cut_copper_stairs:facing=north:half=bottom:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=bottom:shape=inner_right \
+			  waxed_oxidized_cut_copper_stairs:facing=north:half=bottom:shape=inner_right purpur_stairs:facing=north:half=bottom:shape=inner_right \
+			  cobblestone_stairs:facing=north:half=bottom:shape=inner_right brick_stairs:facing=north:half=bottom:shape=inner_right \
+			  stone_brick_stairs:facing=north:half=bottom:shape=inner_right mud_brick_stairs:facing=north:half=bottom:shape=inner_right \
+			  nether_brick_stairs:facing=north:half=bottom:shape=inner_right sandstone_stairs:facing=north:half=bottom:shape=inner_right \
+			  oak_stairs:facing=north:half=bottom:shape=inner_right spruce_stairs:facing=north:half=bottom:shape=inner_right \
+			  birch_stairs:facing=north:half=bottom:shape=inner_right jungle_stairs:facing=north:half=bottom:shape=inner_right \
+			  acacia_stairs:facing=north:half=bottom:shape=inner_right dark_oak_stairs:facing=north:half=bottom:shape=inner_right \
+			  mangrove_stairs:facing=north:half=bottom:shape=inner_right crimson_stairs:facing=north:half=bottom:shape=inner_right \
+			  warped_stairs:facing=north:half=bottom:shape=inner_right quartz_stairs:facing=north:half=bottom:shape=inner_right \
+			  prismarine_stairs:facing=north:half=bottom:shape=inner_right prismarine_brick_stairs:facing=north:half=bottom:shape=inner_right \
+			  dark_prismarine_stairs:facing=north:half=bottom:shape=inner_right red_sandstone_stairs:facing=north:half=bottom:shape=inner_right \
+			  polished_granite_stairs:facing=north:half=bottom:shape=inner_right smooth_red_sandstone_stairs:facing=north:half=bottom:shape=inner_right \
+			  mossy_stone_brick_stairs:facing=north:half=bottom:shape=inner_right polished_diorite_stairs:facing=north:half=bottom:shape=inner_right \
+			  mossy_cobblestone_stairs:facing=north:half=bottom:shape=inner_right end_stone_brick_stairs:facing=north:half=bottom:shape=inner_right \
+			  stone_stairs:facing=north:half=bottom:shape=inner_right smooth_sandstone_stairs:facing=north:half=bottom:shape=inner_right \
+			  smooth_quartz_stairs:facing=north:half=bottom:shape=inner_right granite_stairs:facing=north:half=bottom:shape=inner_right \
+			  andesite_stairs:facing=north:half=bottom:shape=inner_right red_nether_brick_stairs:facing=north:half=bottom:shape=inner_right \
+			  polished_andesite_stairs:facing=north:half=bottom:shape=inner_right diorite_stairs:facing=north:half=bottom:shape=inner_right \
+			  cobbled_deepslate_stairs:facing=north:half=bottom:shape=inner_right polished_deepslate_stairs:facing=north:half=bottom:shape=inner_right \
+			  deepslate_brick_stairs:facing=north:half=bottom:shape=inner_right deepslate_tile_stairs:facing=north:half=bottom:shape=inner_right \
+			  blackstone_stairs:facing=north:half=bottom:shape=inner_right polished_blackstone_stairs:facing=north:half=bottom:shape=inner_right \
+			  polished_blackstone_brick_stairs:facing=north:half=bottom:shape=inner_right bamboo_stairs:facing=north:half=bottom:shape=inner_right \
+			  bamboo_mosaic_stairs:facing=north:half=bottom:shape=inner_right cherry_stairs:facing=north:half=bottom:shape=inner_right \
+			  pale_oak_stairs:facing=north:half=bottom:shape=inner_right resin_brick_stairs:facing=north:half=bottom:shape=inner_right \
+			  tuff_stairs:facing=north:half=bottom:shape=inner_right polished_tuff_stairs:facing=north:half=bottom:shape=inner_right \
+			  tuff_brick_stairs:facing=north:half=bottom:shape=inner_right \
+
+// 19.stairs:facing=west:half=bottom:shape=inner_left & facing=south:half=bottom:shape=inner_right
+
+cut_copper_stairs:facing=west:half=bottom:shape=inner_left exposed_cut_copper_stairs:facing=west:half=bottom:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=west:half=bottom:shape=inner_left oxidized_cut_copper_stairs:facing=west:half=bottom:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=west:half=bottom:shape=inner_left waxed_exposed_cut_copper_stairs:facing=west:half=bottom:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=bottom:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=west:half=bottom:shape=inner_left \
+			  purpur_stairs:facing=west:half=bottom:shape=inner_left cobblestone_stairs:facing=west:half=bottom:shape=inner_left \
+			  brick_stairs:facing=west:half=bottom:shape=inner_left stone_brick_stairs:facing=west:half=bottom:shape=inner_left \
+			  mud_brick_stairs:facing=west:half=bottom:shape=inner_left nether_brick_stairs:facing=west:half=bottom:shape=inner_left \
+			  sandstone_stairs:facing=west:half=bottom:shape=inner_left oak_stairs:facing=west:half=bottom:shape=inner_left \
+			  spruce_stairs:facing=west:half=bottom:shape=inner_left birch_stairs:facing=west:half=bottom:shape=inner_left \
+			  jungle_stairs:facing=west:half=bottom:shape=inner_left acacia_stairs:facing=west:half=bottom:shape=inner_left \
+			  dark_oak_stairs:facing=west:half=bottom:shape=inner_left mangrove_stairs:facing=west:half=bottom:shape=inner_left \
+			  crimson_stairs:facing=west:half=bottom:shape=inner_left warped_stairs:facing=west:half=bottom:shape=inner_left \
+			  quartz_stairs:facing=west:half=bottom:shape=inner_left prismarine_stairs:facing=west:half=bottom:shape=inner_left \
+			  prismarine_brick_stairs:facing=west:half=bottom:shape=inner_left dark_prismarine_stairs:facing=west:half=bottom:shape=inner_left \
+			  red_sandstone_stairs:facing=west:half=bottom:shape=inner_left polished_granite_stairs:facing=west:half=bottom:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=west:half=bottom:shape=inner_left mossy_stone_brick_stairs:facing=west:half=bottom:shape=inner_left \
+			  polished_diorite_stairs:facing=west:half=bottom:shape=inner_left mossy_cobblestone_stairs:facing=west:half=bottom:shape=inner_left \
+			  end_stone_brick_stairs:facing=west:half=bottom:shape=inner_left stone_stairs:facing=west:half=bottom:shape=inner_left \
+			  smooth_sandstone_stairs:facing=west:half=bottom:shape=inner_left smooth_quartz_stairs:facing=west:half=bottom:shape=inner_left \
+			  granite_stairs:facing=west:half=bottom:shape=inner_left andesite_stairs:facing=west:half=bottom:shape=inner_left \
+			  red_nether_brick_stairs:facing=west:half=bottom:shape=inner_left polished_andesite_stairs:facing=west:half=bottom:shape=inner_left \
+			  diorite_stairs:facing=west:half=bottom:shape=inner_left cobbled_deepslate_stairs:facing=west:half=bottom:shape=inner_left \
+			  polished_deepslate_stairs:facing=west:half=bottom:shape=inner_left deepslate_brick_stairs:facing=west:half=bottom:shape=inner_left \
+			  deepslate_tile_stairs:facing=west:half=bottom:shape=inner_left blackstone_stairs:facing=west:half=bottom:shape=inner_left \
+			  polished_blackstone_stairs:facing=west:half=bottom:shape=inner_left polished_blackstone_brick_stairs:facing=west:half=bottom:shape=inner_left \
+			  bamboo_stairs:facing=west:half=bottom:shape=inner_left bamboo_mosaic_stairs:facing=west:half=bottom:shape=inner_left \
+			  cherry_stairs:facing=west:half=bottom:shape=inner_left pale_oak_stairs:facing=west:half=bottom:shape=inner_left \
+			  resin_brick_stairs:facing=west:half=bottom:shape=inner_left tuff_stairs:facing=west:half=bottom:shape=inner_left \
+			  polished_tuff_stairs:facing=west:half=bottom:shape=inner_left tuff_brick_stairs:facing=west:half=bottom:shape=inner_left \
+			  cut_copper_stairs:facing=south:half=bottom:shape=inner_right exposed_cut_copper_stairs:facing=south:half=bottom:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=south:half=bottom:shape=inner_right oxidized_cut_copper_stairs:facing=south:half=bottom:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=south:half=bottom:shape=inner_right waxed_exposed_cut_copper_stairs:facing=south:half=bottom:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=bottom:shape=inner_right \
+			  waxed_oxidized_cut_copper_stairs:facing=south:half=bottom:shape=inner_right purpur_stairs:facing=south:half=bottom:shape=inner_right \
+			  cobblestone_stairs:facing=south:half=bottom:shape=inner_right brick_stairs:facing=south:half=bottom:shape=inner_right \
+			  stone_brick_stairs:facing=south:half=bottom:shape=inner_right mud_brick_stairs:facing=south:half=bottom:shape=inner_right \
+			  nether_brick_stairs:facing=south:half=bottom:shape=inner_right sandstone_stairs:facing=south:half=bottom:shape=inner_right \
+			  oak_stairs:facing=south:half=bottom:shape=inner_right spruce_stairs:facing=south:half=bottom:shape=inner_right \
+			  birch_stairs:facing=south:half=bottom:shape=inner_right jungle_stairs:facing=south:half=bottom:shape=inner_right \
+			  acacia_stairs:facing=south:half=bottom:shape=inner_right dark_oak_stairs:facing=south:half=bottom:shape=inner_right \
+			  mangrove_stairs:facing=south:half=bottom:shape=inner_right crimson_stairs:facing=south:half=bottom:shape=inner_right \
+			  warped_stairs:facing=south:half=bottom:shape=inner_right quartz_stairs:facing=south:half=bottom:shape=inner_right \
+			  prismarine_stairs:facing=south:half=bottom:shape=inner_right prismarine_brick_stairs:facing=south:half=bottom:shape=inner_right \
+			  dark_prismarine_stairs:facing=south:half=bottom:shape=inner_right red_sandstone_stairs:facing=south:half=bottom:shape=inner_right \
+			  polished_granite_stairs:facing=south:half=bottom:shape=inner_right smooth_red_sandstone_stairs:facing=south:half=bottom:shape=inner_right \
+			  mossy_stone_brick_stairs:facing=south:half=bottom:shape=inner_right polished_diorite_stairs:facing=south:half=bottom:shape=inner_right \
+			  mossy_cobblestone_stairs:facing=south:half=bottom:shape=inner_right end_stone_brick_stairs:facing=south:half=bottom:shape=inner_right \
+			  stone_stairs:facing=south:half=bottom:shape=inner_right smooth_sandstone_stairs:facing=south:half=bottom:shape=inner_right \
+			  smooth_quartz_stairs:facing=south:half=bottom:shape=inner_right granite_stairs:facing=south:half=bottom:shape=inner_right \
+			  andesite_stairs:facing=south:half=bottom:shape=inner_right red_nether_brick_stairs:facing=south:half=bottom:shape=inner_right \
+			  polished_andesite_stairs:facing=south:half=bottom:shape=inner_right diorite_stairs:facing=south:half=bottom:shape=inner_right \
+			  cobbled_deepslate_stairs:facing=south:half=bottom:shape=inner_right polished_deepslate_stairs:facing=south:half=bottom:shape=inner_right \
+			  deepslate_brick_stairs:facing=south:half=bottom:shape=inner_right deepslate_tile_stairs:facing=south:half=bottom:shape=inner_right \
+			  blackstone_stairs:facing=south:half=bottom:shape=inner_right polished_blackstone_stairs:facing=south:half=bottom:shape=inner_right \
+			  polished_blackstone_brick_stairs:facing=south:half=bottom:shape=inner_right bamboo_stairs:facing=south:half=bottom:shape=inner_right \
+			  bamboo_mosaic_stairs:facing=south:half=bottom:shape=inner_right cherry_stairs:facing=south:half=bottom:shape=inner_right \
+			  pale_oak_stairs:facing=south:half=bottom:shape=inner_right resin_brick_stairs:facing=south:half=bottom:shape=inner_right \
+			  tuff_stairs:facing=south:half=bottom:shape=inner_right polished_tuff_stairs:facing=south:half=bottom:shape=inner_right \
+			  tuff_brick_stairs:facing=south:half=bottom:shape=inner_right \
+
+// 20.stairs:facing=south:half=bottom:shape=inner_left & facing=east:half=bottom:shape=inner_right
+
+
+cut_copper_stairs:facing=south:half=bottom:shape=inner_left exposed_cut_copper_stairs:facing=south:half=bottom:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=south:half=bottom:shape=inner_left oxidized_cut_copper_stairs:facing=south:half=bottom:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=south:half=bottom:shape=inner_left waxed_exposed_cut_copper_stairs:facing=south:half=bottom:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=bottom:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=south:half=bottom:shape=inner_left \
+			  purpur_stairs:facing=south:half=bottom:shape=inner_left cobblestone_stairs:facing=south:half=bottom:shape=inner_left \
+			  brick_stairs:facing=south:half=bottom:shape=inner_left stone_brick_stairs:facing=south:half=bottom:shape=inner_left \
+			  mud_brick_stairs:facing=south:half=bottom:shape=inner_left nether_brick_stairs:facing=south:half=bottom:shape=inner_left \
+			  sandstone_stairs:facing=south:half=bottom:shape=inner_left oak_stairs:facing=south:half=bottom:shape=inner_left \
+			  spruce_stairs:facing=south:half=bottom:shape=inner_left birch_stairs:facing=south:half=bottom:shape=inner_left \
+			  jungle_stairs:facing=south:half=bottom:shape=inner_left acacia_stairs:facing=south:half=bottom:shape=inner_left \
+			  dark_oak_stairs:facing=south:half=bottom:shape=inner_left mangrove_stairs:facing=south:half=bottom:shape=inner_left \
+			  crimson_stairs:facing=south:half=bottom:shape=inner_left warped_stairs:facing=south:half=bottom:shape=inner_left \
+			  quartz_stairs:facing=south:half=bottom:shape=inner_left prismarine_stairs:facing=south:half=bottom:shape=inner_left \
+			  prismarine_brick_stairs:facing=south:half=bottom:shape=inner_left dark_prismarine_stairs:facing=south:half=bottom:shape=inner_left \
+			  red_sandstone_stairs:facing=south:half=bottom:shape=inner_left polished_granite_stairs:facing=south:half=bottom:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=south:half=bottom:shape=inner_left mossy_stone_brick_stairs:facing=south:half=bottom:shape=inner_left \
+			  polished_diorite_stairs:facing=south:half=bottom:shape=inner_left mossy_cobblestone_stairs:facing=south:half=bottom:shape=inner_left \
+			  end_stone_brick_stairs:facing=south:half=bottom:shape=inner_left stone_stairs:facing=south:half=bottom:shape=inner_left \
+			  smooth_sandstone_stairs:facing=south:half=bottom:shape=inner_left smooth_quartz_stairs:facing=south:half=bottom:shape=inner_left \
+			  granite_stairs:facing=south:half=bottom:shape=inner_left andesite_stairs:facing=south:half=bottom:shape=inner_left \
+			  red_nether_brick_stairs:facing=south:half=bottom:shape=inner_left polished_andesite_stairs:facing=south:half=bottom:shape=inner_left \
+			  diorite_stairs:facing=south:half=bottom:shape=inner_left cobbled_deepslate_stairs:facing=south:half=bottom:shape=inner_left \
+			  polished_deepslate_stairs:facing=south:half=bottom:shape=inner_left deepslate_brick_stairs:facing=south:half=bottom:shape=inner_left \
+			  deepslate_tile_stairs:facing=south:half=bottom:shape=inner_left blackstone_stairs:facing=south:half=bottom:shape=inner_left \
+			  polished_blackstone_stairs:facing=south:half=bottom:shape=inner_left polished_blackstone_brick_stairs:facing=south:half=bottom:shape=inner_left \
+			  bamboo_stairs:facing=south:half=bottom:shape=inner_left bamboo_mosaic_stairs:facing=south:half=bottom:shape=inner_left \
+			  cherry_stairs:facing=south:half=bottom:shape=inner_left pale_oak_stairs:facing=south:half=bottom:shape=inner_left \
+			  resin_brick_stairs:facing=south:half=bottom:shape=inner_left tuff_stairs:facing=south:half=bottom:shape=inner_left \
+			  polished_tuff_stairs:facing=south:half=bottom:shape=inner_left tuff_brick_stairs:facing=south:half=bottom:shape=inner_left \
+			  cut_copper_stairs:facing=east:half=bottom:shape=inner_right exposed_cut_copper_stairs:facing=east:half=bottom:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=east:half=bottom:shape=inner_right oxidized_cut_copper_stairs:facing=east:half=bottom:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=east:half=bottom:shape=inner_right waxed_exposed_cut_copper_stairs:facing=east:half=bottom:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=bottom:shape=inner_right waxed_oxidized_cut_copper_stairs:facing=east:half=bottom:shape=inner_right \
+			  purpur_stairs:facing=east:half=bottom:shape=inner_right cobblestone_stairs:facing=east:half=bottom:shape=inner_right \
+			  brick_stairs:facing=east:half=bottom:shape=inner_right stone_brick_stairs:facing=east:half=bottom:shape=inner_right \
+			  mud_brick_stairs:facing=east:half=bottom:shape=inner_right nether_brick_stairs:facing=east:half=bottom:shape=inner_right \
+			  sandstone_stairs:facing=east:half=bottom:shape=inner_right oak_stairs:facing=east:half=bottom:shape=inner_right \
+			  spruce_stairs:facing=east:half=bottom:shape=inner_right birch_stairs:facing=east:half=bottom:shape=inner_right \
+			  jungle_stairs:facing=east:half=bottom:shape=inner_right acacia_stairs:facing=east:half=bottom:shape=inner_right \
+			  dark_oak_stairs:facing=east:half=bottom:shape=inner_right mangrove_stairs:facing=east:half=bottom:shape=inner_right \
+			  crimson_stairs:facing=east:half=bottom:shape=inner_right warped_stairs:facing=east:half=bottom:shape=inner_right \
+			  quartz_stairs:facing=east:half=bottom:shape=inner_right prismarine_stairs:facing=east:half=bottom:shape=inner_right \
+			  prismarine_brick_stairs:facing=east:half=bottom:shape=inner_right dark_prismarine_stairs:facing=east:half=bottom:shape=inner_right \
+			  red_sandstone_stairs:facing=east:half=bottom:shape=inner_right polished_granite_stairs:facing=east:half=bottom:shape=inner_right \
+			  smooth_red_sandstone_stairs:facing=east:half=bottom:shape=inner_right mossy_stone_brick_stairs:facing=east:half=bottom:shape=inner_right \
+			  polished_diorite_stairs:facing=east:half=bottom:shape=inner_right mossy_cobblestone_stairs:facing=east:half=bottom:shape=inner_right \
+			  end_stone_brick_stairs:facing=east:half=bottom:shape=inner_right stone_stairs:facing=east:half=bottom:shape=inner_right \
+			  smooth_sandstone_stairs:facing=east:half=bottom:shape=inner_right smooth_quartz_stairs:facing=east:half=bottom:shape=inner_right \
+			  granite_stairs:facing=east:half=bottom:shape=inner_right andesite_stairs:facing=east:half=bottom:shape=inner_right \
+			  red_nether_brick_stairs:facing=east:half=bottom:shape=inner_right polished_andesite_stairs:facing=east:half=bottom:shape=inner_right \
+			  diorite_stairs:facing=east:half=bottom:shape=inner_right cobbled_deepslate_stairs:facing=east:half=bottom:shape=inner_right \
+			  polished_deepslate_stairs:facing=east:half=bottom:shape=inner_right deepslate_brick_stairs:facing=east:half=bottom:shape=inner_right \
+			  deepslate_tile_stairs:facing=east:half=bottom:shape=inner_right blackstone_stairs:facing=east:half=bottom:shape=inner_right \
+			  polished_blackstone_stairs:facing=east:half=bottom:shape=inner_right polished_blackstone_brick_stairs:facing=east:half=bottom:shape=inner_right \
+			  bamboo_stairs:facing=east:half=bottom:shape=inner_right bamboo_mosaic_stairs:facing=east:half=bottom:shape=inner_right \
+			  cherry_stairs:facing=east:half=bottom:shape=inner_right pale_oak_stairs:facing=east:half=bottom:shape=inner_right \
+			  resin_brick_stairs:facing=east:half=bottom:shape=inner_right tuff_stairs:facing=east:half=bottom:shape=inner_right \
+			  polished_tuff_stairs:facing=east:half=bottom:shape=inner_right tuff_brick_stairs:facing=east:half=bottom:shape=inner_right \
+
+// 21.stairs:facing=north:half=top:shape=inner_left & facing=west:half=top:shape=inner_right
+
+cut_copper_stairs:facing=north:half=top:shape=inner_left exposed_cut_copper_stairs:facing=north:half=top:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=north:half=top:shape=inner_left oxidized_cut_copper_stairs:facing=north:half=top:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=north:half=top:shape=inner_left waxed_exposed_cut_copper_stairs:facing=north:half=top:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=top:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=north:half=top:shape=inner_left \
+			  purpur_stairs:facing=north:half=top:shape=inner_left cobblestone_stairs:facing=north:half=top:shape=inner_left \
+			  brick_stairs:facing=north:half=top:shape=inner_left stone_brick_stairs:facing=north:half=top:shape=inner_left \
+			  mud_brick_stairs:facing=north:half=top:shape=inner_left nether_brick_stairs:facing=north:half=top:shape=inner_left \
+			  sandstone_stairs:facing=north:half=top:shape=inner_left oak_stairs:facing=north:half=top:shape=inner_left \
+			  spruce_stairs:facing=north:half=top:shape=inner_left birch_stairs:facing=north:half=top:shape=inner_left \
+			  jungle_stairs:facing=north:half=top:shape=inner_left acacia_stairs:facing=north:half=top:shape=inner_left \
+			  dark_oak_stairs:facing=north:half=top:shape=inner_left mangrove_stairs:facing=north:half=top:shape=inner_left \
+			  crimson_stairs:facing=north:half=top:shape=inner_left warped_stairs:facing=north:half=top:shape=inner_left \
+			  quartz_stairs:facing=north:half=top:shape=inner_left prismarine_stairs:facing=north:half=top:shape=inner_left \
+			  prismarine_brick_stairs:facing=north:half=top:shape=inner_left dark_prismarine_stairs:facing=north:half=top:shape=inner_left \
+			  red_sandstone_stairs:facing=north:half=top:shape=inner_left polished_granite_stairs:facing=north:half=top:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=north:half=top:shape=inner_left mossy_stone_brick_stairs:facing=north:half=top:shape=inner_left \
+			  polished_diorite_stairs:facing=north:half=top:shape=inner_left mossy_cobblestone_stairs:facing=north:half=top:shape=inner_left \
+			  end_stone_brick_stairs:facing=north:half=top:shape=inner_left stone_stairs:facing=north:half=top:shape=inner_left \
+			  smooth_sandstone_stairs:facing=north:half=top:shape=inner_left smooth_quartz_stairs:facing=north:half=top:shape=inner_left \
+			  granite_stairs:facing=north:half=top:shape=inner_left andesite_stairs:facing=north:half=top:shape=inner_left \
+			  red_nether_brick_stairs:facing=north:half=top:shape=inner_left polished_andesite_stairs:facing=north:half=top:shape=inner_left \
+			  diorite_stairs:facing=north:half=top:shape=inner_left cobbled_deepslate_stairs:facing=north:half=top:shape=inner_left \
+			  polished_deepslate_stairs:facing=north:half=top:shape=inner_left deepslate_brick_stairs:facing=north:half=top:shape=inner_left \
+			  deepslate_tile_stairs:facing=north:half=top:shape=inner_left blackstone_stairs:facing=north:half=top:shape=inner_left \
+			  polished_blackstone_stairs:facing=north:half=top:shape=inner_left polished_blackstone_brick_stairs:facing=north:half=top:shape=inner_left \
+			  bamboo_stairs:facing=north:half=top:shape=inner_left bamboo_mosaic_stairs:facing=north:half=top:shape=inner_left \
+			  cherry_stairs:facing=north:half=top:shape=inner_left pale_oak_stairs:facing=north:half=top:shape=inner_left \
+			  resin_brick_stairs:facing=north:half=top:shape=inner_left tuff_stairs:facing=north:half=top:shape=inner_left \
+			  polished_tuff_stairs:facing=north:half=top:shape=inner_left tuff_brick_stairs:facing=north:half=top:shape=inner_left \
+			  cut_copper_stairs:facing=west:half=top:shape=inner_right exposed_cut_copper_stairs:facing=west:half=top:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=west:half=top:shape=inner_right oxidized_cut_copper_stairs:facing=west:half=top:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=west:half=top:shape=inner_right waxed_exposed_cut_copper_stairs:facing=west:half=top:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=top:shape=inner_right waxed_oxidized_cut_copper_stairs:facing=west:half=top:shape=inner_right \
+			  purpur_stairs:facing=west:half=top:shape=inner_right cobblestone_stairs:facing=west:half=top:shape=inner_right \
+			  brick_stairs:facing=west:half=top:shape=inner_right stone_brick_stairs:facing=west:half=top:shape=inner_right \
+			  mud_brick_stairs:facing=west:half=top:shape=inner_right nether_brick_stairs:facing=west:half=top:shape=inner_right \
+			  sandstone_stairs:facing=west:half=top:shape=inner_right oak_stairs:facing=west:half=top:shape=inner_right \
+			  spruce_stairs:facing=west:half=top:shape=inner_right birch_stairs:facing=west:half=top:shape=inner_right \
+			  jungle_stairs:facing=west:half=top:shape=inner_right acacia_stairs:facing=west:half=top:shape=inner_right \
+			  dark_oak_stairs:facing=west:half=top:shape=inner_right mangrove_stairs:facing=west:half=top:shape=inner_right \
+			  crimson_stairs:facing=west:half=top:shape=inner_right warped_stairs:facing=west:half=top:shape=inner_right \
+			  quartz_stairs:facing=west:half=top:shape=inner_right prismarine_stairs:facing=west:half=top:shape=inner_right \
+			  prismarine_brick_stairs:facing=west:half=top:shape=inner_right dark_prismarine_stairs:facing=west:half=top:shape=inner_right \
+			  red_sandstone_stairs:facing=west:half=top:shape=inner_right polished_granite_stairs:facing=west:half=top:shape=inner_right \
+			  smooth_red_sandstone_stairs:facing=west:half=top:shape=inner_right mossy_stone_brick_stairs:facing=west:half=top:shape=inner_right \
+			  polished_diorite_stairs:facing=west:half=top:shape=inner_right mossy_cobblestone_stairs:facing=west:half=top:shape=inner_right \
+			  end_stone_brick_stairs:facing=west:half=top:shape=inner_right stone_stairs:facing=west:half=top:shape=inner_right \
+			  smooth_sandstone_stairs:facing=west:half=top:shape=inner_right smooth_quartz_stairs:facing=west:half=top:shape=inner_right \
+			  granite_stairs:facing=west:half=top:shape=inner_right andesite_stairs:facing=west:half=top:shape=inner_right \
+			  red_nether_brick_stairs:facing=west:half=top:shape=inner_right polished_andesite_stairs:facing=west:half=top:shape=inner_right \
+			  diorite_stairs:facing=west:half=top:shape=inner_right cobbled_deepslate_stairs:facing=west:half=top:shape=inner_right \
+			  polished_deepslate_stairs:facing=west:half=top:shape=inner_right deepslate_brick_stairs:facing=west:half=top:shape=inner_right \
+			  deepslate_tile_stairs:facing=west:half=top:shape=inner_right blackstone_stairs:facing=west:half=top:shape=inner_right \
+			  polished_blackstone_stairs:facing=west:half=top:shape=inner_right polished_blackstone_brick_stairs:facing=west:half=top:shape=inner_right \
+			  bamboo_stairs:facing=west:half=top:shape=inner_right bamboo_mosaic_stairs:facing=west:half=top:shape=inner_right \
+			  cherry_stairs:facing=west:half=top:shape=inner_right pale_oak_stairs:facing=west:half=top:shape=inner_right \
+			  resin_brick_stairs:facing=west:half=top:shape=inner_right tuff_stairs:facing=west:half=top:shape=inner_right \
+			  polished_tuff_stairs:facing=west:half=top:shape=inner_right tuff_brick_stairs:facing=west:half=top:shape=inner_right \
+
+// 22.stairs:facing=east:half=top:shape=inner_left & facing=north:half=top:shape=inner_right
+
+cut_copper_stairs:facing=east:half=top:shape=inner_left exposed_cut_copper_stairs:facing=east:half=top:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=east:half=top:shape=inner_left oxidized_cut_copper_stairs:facing=east:half=top:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=east:half=top:shape=inner_left waxed_exposed_cut_copper_stairs:facing=east:half=top:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=top:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=east:half=top:shape=inner_left \
+			  purpur_stairs:facing=east:half=top:shape=inner_left cobblestone_stairs:facing=east:half=top:shape=inner_left \
+			  brick_stairs:facing=east:half=top:shape=inner_left stone_brick_stairs:facing=east:half=top:shape=inner_left \
+			  mud_brick_stairs:facing=east:half=top:shape=inner_left nether_brick_stairs:facing=east:half=top:shape=inner_left \
+			  sandstone_stairs:facing=east:half=top:shape=inner_left oak_stairs:facing=east:half=top:shape=inner_left \
+			  spruce_stairs:facing=east:half=top:shape=inner_left birch_stairs:facing=east:half=top:shape=inner_left \
+			  jungle_stairs:facing=east:half=top:shape=inner_left acacia_stairs:facing=east:half=top:shape=inner_left \
+			  dark_oak_stairs:facing=east:half=top:shape=inner_left mangrove_stairs:facing=east:half=top:shape=inner_left \
+			  crimson_stairs:facing=east:half=top:shape=inner_left warped_stairs:facing=east:half=top:shape=inner_left \
+			  quartz_stairs:facing=east:half=top:shape=inner_left prismarine_stairs:facing=east:half=top:shape=inner_left \
+			  prismarine_brick_stairs:facing=east:half=top:shape=inner_left dark_prismarine_stairs:facing=east:half=top:shape=inner_left \
+			  red_sandstone_stairs:facing=east:half=top:shape=inner_left polished_granite_stairs:facing=east:half=top:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=east:half=top:shape=inner_left mossy_stone_brick_stairs:facing=east:half=top:shape=inner_left \
+			  polished_diorite_stairs:facing=east:half=top:shape=inner_left mossy_cobblestone_stairs:facing=east:half=top:shape=inner_left \
+			  end_stone_brick_stairs:facing=east:half=top:shape=inner_left stone_stairs:facing=east:half=top:shape=inner_left \
+			  smooth_sandstone_stairs:facing=east:half=top:shape=inner_left smooth_quartz_stairs:facing=east:half=top:shape=inner_left \
+			  granite_stairs:facing=east:half=top:shape=inner_left andesite_stairs:facing=east:half=top:shape=inner_left \
+			  red_nether_brick_stairs:facing=east:half=top:shape=inner_left polished_andesite_stairs:facing=east:half=top:shape=inner_left \
+			  diorite_stairs:facing=east:half=top:shape=inner_left cobbled_deepslate_stairs:facing=east:half=top:shape=inner_left \
+			  polished_deepslate_stairs:facing=east:half=top:shape=inner_left deepslate_brick_stairs:facing=east:half=top:shape=inner_left \
+			  deepslate_tile_stairs:facing=east:half=top:shape=inner_left blackstone_stairs:facing=east:half=top:shape=inner_left \
+			  polished_blackstone_stairs:facing=east:half=top:shape=inner_left polished_blackstone_brick_stairs:facing=east:half=top:shape=inner_left \
+			  bamboo_stairs:facing=east:half=top:shape=inner_left bamboo_mosaic_stairs:facing=east:half=top:shape=inner_left \
+			  cherry_stairs:facing=east:half=top:shape=inner_left pale_oak_stairs:facing=east:half=top:shape=inner_left \
+			  resin_brick_stairs:facing=east:half=top:shape=inner_left tuff_stairs:facing=east:half=top:shape=inner_left \
+			  polished_tuff_stairs:facing=east:half=top:shape=inner_left tuff_brick_stairs:facing=east:half=top:shape=inner_left \
+			  cut_copper_stairs:facing=north:half=top:shape=inner_right exposed_cut_copper_stairs:facing=north:half=top:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=north:half=top:shape=inner_right oxidized_cut_copper_stairs:facing=north:half=top:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=north:half=top:shape=inner_right waxed_exposed_cut_copper_stairs:facing=north:half=top:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=north:half=top:shape=inner_right waxed_oxidized_cut_copper_stairs:facing=north:half=top:shape=inner_right \
+			  purpur_stairs:facing=north:half=top:shape=inner_right cobblestone_stairs:facing=north:half=top:shape=inner_right \
+			  brick_stairs:facing=north:half=top:shape=inner_right stone_brick_stairs:facing=north:half=top:shape=inner_right \
+			  mud_brick_stairs:facing=north:half=top:shape=inner_right nether_brick_stairs:facing=north:half=top:shape=inner_right \
+			  sandstone_stairs:facing=north:half=top:shape=inner_right oak_stairs:facing=north:half=top:shape=inner_right \
+			  spruce_stairs:facing=north:half=top:shape=inner_right birch_stairs:facing=north:half=top:shape=inner_right \
+			  jungle_stairs:facing=north:half=top:shape=inner_right acacia_stairs:facing=north:half=top:shape=inner_right \
+			  dark_oak_stairs:facing=north:half=top:shape=inner_right mangrove_stairs:facing=north:half=top:shape=inner_right \
+			  crimson_stairs:facing=north:half=top:shape=inner_right warped_stairs:facing=north:half=top:shape=inner_right \
+			  quartz_stairs:facing=north:half=top:shape=inner_right prismarine_stairs:facing=north:half=top:shape=inner_right \
+			  prismarine_brick_stairs:facing=north:half=top:shape=inner_right dark_prismarine_stairs:facing=north:half=top:shape=inner_right \
+			  red_sandstone_stairs:facing=north:half=top:shape=inner_right polished_granite_stairs:facing=north:half=top:shape=inner_right \
+			  smooth_red_sandstone_stairs:facing=north:half=top:shape=inner_right mossy_stone_brick_stairs:facing=north:half=top:shape=inner_right \
+			  polished_diorite_stairs:facing=north:half=top:shape=inner_right mossy_cobblestone_stairs:facing=north:half=top:shape=inner_right \
+			  end_stone_brick_stairs:facing=north:half=top:shape=inner_right stone_stairs:facing=north:half=top:shape=inner_right \
+			  smooth_sandstone_stairs:facing=north:half=top:shape=inner_right smooth_quartz_stairs:facing=north:half=top:shape=inner_right \
+			  granite_stairs:facing=north:half=top:shape=inner_right andesite_stairs:facing=north:half=top:shape=inner_right \
+			  red_nether_brick_stairs:facing=north:half=top:shape=inner_right polished_andesite_stairs:facing=north:half=top:shape=inner_right \
+			  diorite_stairs:facing=north:half=top:shape=inner_right cobbled_deepslate_stairs:facing=north:half=top:shape=inner_right \
+			  polished_deepslate_stairs:facing=north:half=top:shape=inner_right deepslate_brick_stairs:facing=north:half=top:shape=inner_right \
+			  deepslate_tile_stairs:facing=north:half=top:shape=inner_right blackstone_stairs:facing=north:half=top:shape=inner_right \
+			  polished_blackstone_stairs:facing=north:half=top:shape=inner_right polished_blackstone_brick_stairs:facing=north:half=top:shape=inner_right \
+			  bamboo_stairs:facing=north:half=top:shape=inner_right bamboo_mosaic_stairs:facing=north:half=top:shape=inner_right \
+			  cherry_stairs:facing=north:half=top:shape=inner_right pale_oak_stairs:facing=north:half=top:shape=inner_right \
+			  resin_brick_stairs:facing=north:half=top:shape=inner_right tuff_stairs:facing=north:half=top:shape=inner_right \
+			  polished_tuff_stairs:facing=north:half=top:shape=inner_right tuff_brick_stairs:facing=north:half=top:shape=inner_right \
+
+// 23.stairs:facing=west:half=top:shape=inner_left & facing=south:half=top:shape=inner_right
+
+cut_copper_stairs:facing=west:half=top:shape=inner_left exposed_cut_copper_stairs:facing=west:half=top:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=west:half=top:shape=inner_left oxidized_cut_copper_stairs:facing=west:half=top:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=west:half=top:shape=inner_left waxed_exposed_cut_copper_stairs:facing=west:half=top:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=west:half=top:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=west:half=top:shape=inner_left \
+			  purpur_stairs:facing=west:half=top:shape=inner_left cobblestone_stairs:facing=west:half=top:shape=inner_left \
+			  brick_stairs:facing=west:half=top:shape=inner_left stone_brick_stairs:facing=west:half=top:shape=inner_left \
+			  mud_brick_stairs:facing=west:half=top:shape=inner_left nether_brick_stairs:facing=west:half=top:shape=inner_left \
+			  sandstone_stairs:facing=west:half=top:shape=inner_left oak_stairs:facing=west:half=top:shape=inner_left \
+			  spruce_stairs:facing=west:half=top:shape=inner_left birch_stairs:facing=west:half=top:shape=inner_left \
+			  jungle_stairs:facing=west:half=top:shape=inner_left acacia_stairs:facing=west:half=top:shape=inner_left \
+			  dark_oak_stairs:facing=west:half=top:shape=inner_left mangrove_stairs:facing=west:half=top:shape=inner_left \
+			  crimson_stairs:facing=west:half=top:shape=inner_left warped_stairs:facing=west:half=top:shape=inner_left \
+			  quartz_stairs:facing=west:half=top:shape=inner_left prismarine_stairs:facing=west:half=top:shape=inner_left \
+			  prismarine_brick_stairs:facing=west:half=top:shape=inner_left dark_prismarine_stairs:facing=west:half=top:shape=inner_left \
+			  red_sandstone_stairs:facing=west:half=top:shape=inner_left polished_granite_stairs:facing=west:half=top:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=west:half=top:shape=inner_left mossy_stone_brick_stairs:facing=west:half=top:shape=inner_left \
+			  polished_diorite_stairs:facing=west:half=top:shape=inner_left mossy_cobblestone_stairs:facing=west:half=top:shape=inner_left \
+			  end_stone_brick_stairs:facing=west:half=top:shape=inner_left stone_stairs:facing=west:half=top:shape=inner_left \
+			  smooth_sandstone_stairs:facing=west:half=top:shape=inner_left smooth_quartz_stairs:facing=west:half=top:shape=inner_left \
+			  granite_stairs:facing=west:half=top:shape=inner_left andesite_stairs:facing=west:half=top:shape=inner_left \
+			  red_nether_brick_stairs:facing=west:half=top:shape=inner_left polished_andesite_stairs:facing=west:half=top:shape=inner_left \
+			  diorite_stairs:facing=west:half=top:shape=inner_left cobbled_deepslate_stairs:facing=west:half=top:shape=inner_left \
+			  polished_deepslate_stairs:facing=west:half=top:shape=inner_left deepslate_brick_stairs:facing=west:half=top:shape=inner_left \
+			  deepslate_tile_stairs:facing=west:half=top:shape=inner_left blackstone_stairs:facing=west:half=top:shape=inner_left \
+			  polished_blackstone_stairs:facing=west:half=top:shape=inner_left polished_blackstone_brick_stairs:facing=west:half=top:shape=inner_left \
+			  bamboo_stairs:facing=west:half=top:shape=inner_left bamboo_mosaic_stairs:facing=west:half=top:shape=inner_left \
+			  cherry_stairs:facing=west:half=top:shape=inner_left pale_oak_stairs:facing=west:half=top:shape=inner_left \
+			  resin_brick_stairs:facing=west:half=top:shape=inner_left tuff_stairs:facing=west:half=top:shape=inner_left \
+			  polished_tuff_stairs:facing=west:half=top:shape=inner_left tuff_brick_stairs:facing=west:half=top:shape=inner_left \
+			  cut_copper_stairs:facing=south:half=top:shape=inner_right exposed_cut_copper_stairs:facing=south:half=top:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=south:half=top:shape=inner_right oxidized_cut_copper_stairs:facing=south:half=top:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=south:half=top:shape=inner_right waxed_exposed_cut_copper_stairs:facing=south:half=top:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=top:shape=inner_right waxed_oxidized_cut_copper_stairs:facing=south:half=top:shape=inner_right \
+			  purpur_stairs:facing=south:half=top:shape=inner_right cobblestone_stairs:facing=south:half=top:shape=inner_right \
+			  brick_stairs:facing=south:half=top:shape=inner_right stone_brick_stairs:facing=south:half=top:shape=inner_right \
+			  mud_brick_stairs:facing=south:half=top:shape=inner_right nether_brick_stairs:facing=south:half=top:shape=inner_right \
+			  sandstone_stairs:facing=south:half=top:shape=inner_right oak_stairs:facing=south:half=top:shape=inner_right \
+			  spruce_stairs:facing=south:half=top:shape=inner_right birch_stairs:facing=south:half=top:shape=inner_right \
+			  jungle_stairs:facing=south:half=top:shape=inner_right acacia_stairs:facing=south:half=top:shape=inner_right \
+			  dark_oak_stairs:facing=south:half=top:shape=inner_right mangrove_stairs:facing=south:half=top:shape=inner_right \
+			  crimson_stairs:facing=south:half=top:shape=inner_right warped_stairs:facing=south:half=top:shape=inner_right \
+			  quartz_stairs:facing=south:half=top:shape=inner_right prismarine_stairs:facing=south:half=top:shape=inner_right \
+			  prismarine_brick_stairs:facing=south:half=top:shape=inner_right dark_prismarine_stairs:facing=south:half=top:shape=inner_right \
+			  red_sandstone_stairs:facing=south:half=top:shape=inner_right polished_granite_stairs:facing=south:half=top:shape=inner_right \
+			  smooth_red_sandstone_stairs:facing=south:half=top:shape=inner_right mossy_stone_brick_stairs:facing=south:half=top:shape=inner_right \
+			  polished_diorite_stairs:facing=south:half=top:shape=inner_right mossy_cobblestone_stairs:facing=south:half=top:shape=inner_right \
+			  end_stone_brick_stairs:facing=south:half=top:shape=inner_right stone_stairs:facing=south:half=top:shape=inner_right \
+			  smooth_sandstone_stairs:facing=south:half=top:shape=inner_right smooth_quartz_stairs:facing=south:half=top:shape=inner_right \
+			  granite_stairs:facing=south:half=top:shape=inner_right andesite_stairs:facing=south:half=top:shape=inner_right \
+			  red_nether_brick_stairs:facing=south:half=top:shape=inner_right polished_andesite_stairs:facing=south:half=top:shape=inner_right \
+			  diorite_stairs:facing=south:half=top:shape=inner_right cobbled_deepslate_stairs:facing=south:half=top:shape=inner_right \
+			  polished_deepslate_stairs:facing=south:half=top:shape=inner_right deepslate_brick_stairs:facing=south:half=top:shape=inner_right \
+			  deepslate_tile_stairs:facing=south:half=top:shape=inner_right blackstone_stairs:facing=south:half=top:shape=inner_right \
+			  polished_blackstone_stairs:facing=south:half=top:shape=inner_right polished_blackstone_brick_stairs:facing=south:half=top:shape=inner_right \
+			  bamboo_stairs:facing=south:half=top:shape=inner_right bamboo_mosaic_stairs:facing=south:half=top:shape=inner_right \
+			  cherry_stairs:facing=south:half=top:shape=inner_right pale_oak_stairs:facing=south:half=top:shape=inner_right \
+			  resin_brick_stairs:facing=south:half=top:shape=inner_right tuff_stairs:facing=south:half=top:shape=inner_right \
+			  polished_tuff_stairs:facing=south:half=top:shape=inner_right tuff_brick_stairs:facing=south:half=top:shape=inner_right \
+
+// 24.stairs:facing=south:half=top:shape=inner_left & facing=east:half=top:shape=inner_right
+
+cut_copper_stairs:facing=south:half=top:shape=inner_left exposed_cut_copper_stairs:facing=south:half=top:shape=inner_left \
+			  weathered_cut_copper_stairs:facing=south:half=top:shape=inner_left oxidized_cut_copper_stairs:facing=south:half=top:shape=inner_left \
+			  waxed_cut_copper_stairs:facing=south:half=top:shape=inner_left waxed_exposed_cut_copper_stairs:facing=south:half=top:shape=inner_left \
+			  waxed_weathered_cut_copper_stairs:facing=south:half=top:shape=inner_left waxed_oxidized_cut_copper_stairs:facing=south:half=top:shape=inner_left \
+			  purpur_stairs:facing=south:half=top:shape=inner_left cobblestone_stairs:facing=south:half=top:shape=inner_left \
+			  brick_stairs:facing=south:half=top:shape=inner_left stone_brick_stairs:facing=south:half=top:shape=inner_left \
+			  mud_brick_stairs:facing=south:half=top:shape=inner_left nether_brick_stairs:facing=south:half=top:shape=inner_left \
+			  sandstone_stairs:facing=south:half=top:shape=inner_left oak_stairs:facing=south:half=top:shape=inner_left \
+			  spruce_stairs:facing=south:half=top:shape=inner_left birch_stairs:facing=south:half=top:shape=inner_left \
+			  jungle_stairs:facing=south:half=top:shape=inner_left acacia_stairs:facing=south:half=top:shape=inner_left \
+			  dark_oak_stairs:facing=south:half=top:shape=inner_left mangrove_stairs:facing=south:half=top:shape=inner_left \
+			  crimson_stairs:facing=south:half=top:shape=inner_left warped_stairs:facing=south:half=top:shape=inner_left \
+			  quartz_stairs:facing=south:half=top:shape=inner_left prismarine_stairs:facing=south:half=top:shape=inner_left \
+			  prismarine_brick_stairs:facing=south:half=top:shape=inner_left dark_prismarine_stairs:facing=south:half=top:shape=inner_left \
+			  red_sandstone_stairs:facing=south:half=top:shape=inner_left polished_granite_stairs:facing=south:half=top:shape=inner_left \
+			  smooth_red_sandstone_stairs:facing=south:half=top:shape=inner_left mossy_stone_brick_stairs:facing=south:half=top:shape=inner_left \
+			  polished_diorite_stairs:facing=south:half=top:shape=inner_left mossy_cobblestone_stairs:facing=south:half=top:shape=inner_left \
+			  end_stone_brick_stairs:facing=south:half=top:shape=inner_left stone_stairs:facing=south:half=top:shape=inner_left \
+			  smooth_sandstone_stairs:facing=south:half=top:shape=inner_left smooth_quartz_stairs:facing=south:half=top:shape=inner_left \
+			  granite_stairs:facing=south:half=top:shape=inner_left andesite_stairs:facing=south:half=top:shape=inner_left \
+			  red_nether_brick_stairs:facing=south:half=top:shape=inner_left polished_andesite_stairs:facing=south:half=top:shape=inner_left \
+			  diorite_stairs:facing=south:half=top:shape=inner_left cobbled_deepslate_stairs:facing=south:half=top:shape=inner_left \
+			  polished_deepslate_stairs:facing=south:half=top:shape=inner_left deepslate_brick_stairs:facing=south:half=top:shape=inner_left \
+			  deepslate_tile_stairs:facing=south:half=top:shape=inner_left blackstone_stairs:facing=south:half=top:shape=inner_left \
+			  polished_blackstone_stairs:facing=south:half=top:shape=inner_left polished_blackstone_brick_stairs:facing=south:half=top:shape=inner_left \
+			  bamboo_stairs:facing=south:half=top:shape=inner_left bamboo_mosaic_stairs:facing=south:half=top:shape=inner_left \
+			  cherry_stairs:facing=south:half=top:shape=inner_left pale_oak_stairs:facing=south:half=top:shape=inner_left \
+			  resin_brick_stairs:facing=south:half=top:shape=inner_left tuff_stairs:facing=south:half=top:shape=inner_left \
+			  polished_tuff_stairs:facing=south:half=top:shape=inner_left tuff_brick_stairs:facing=south:half=top:shape=inner_left \
+			  cut_copper_stairs:facing=east:half=top:shape=inner_right exposed_cut_copper_stairs:facing=east:half=top:shape=inner_right \
+			  weathered_cut_copper_stairs:facing=east:half=top:shape=inner_right oxidized_cut_copper_stairs:facing=east:half=top:shape=inner_right \
+			  waxed_cut_copper_stairs:facing=east:half=top:shape=inner_right waxed_exposed_cut_copper_stairs:facing=east:half=top:shape=inner_right \
+			  waxed_weathered_cut_copper_stairs:facing=east:half=top:shape=inner_right waxed_oxidized_cut_copper_stairs:facing=east:half=top:shape=inner_right \
+			  purpur_stairs:facing=east:half=top:shape=inner_right cobblestone_stairs:facing=east:half=top:shape=inner_right \
+			  brick_stairs:facing=east:half=top:shape=inner_right stone_brick_stairs:facing=east:half=top:shape=inner_right \
+			  mud_brick_stairs:facing=east:half=top:shape=inner_right nether_brick_stairs:facing=east:half=top:shape=inner_right \
+			  sandstone_stairs:facing=east:half=top:shape=inner_right oak_stairs:facing=east:half=top:shape=inner_right \
+			  spruce_stairs:facing=east:half=top:shape=inner_right birch_stairs:facing=east:half=top:shape=inner_right \
+			  jungle_stairs:facing=east:half=top:shape=inner_right acacia_stairs:facing=east:half=top:shape=inner_right \
+			  dark_oak_stairs:facing=east:half=top:shape=inner_right mangrove_stairs:facing=east:half=top:shape=inner_right \
+			  crimson_stairs:facing=east:half=top:shape=inner_right warped_stairs:facing=east:half=top:shape=inner_right \
+			  quartz_stairs:facing=east:half=top:shape=inner_right prismarine_stairs:facing=east:half=top:shape=inner_right \
+			  prismarine_brick_stairs:facing=east:half=top:shape=inner_right dark_prismarine_stairs:facing=east:half=top:shape=inner_right \
+			  red_sandstone_stairs:facing=east:half=top:shape=inner_right polished_granite_stairs:facing=east:half=top:shape=inner_right \
+			  smooth_red_sandstone_stairs:facing=east:half=top:shape=inner_right mossy_stone_brick_stairs:facing=east:half=top:shape=inner_right \
+			  polished_diorite_stairs:facing=east:half=top:shape=inner_right mossy_cobblestone_stairs:facing=east:half=top:shape=inner_right \
+			  end_stone_brick_stairs:facing=east:half=top:shape=inner_right stone_stairs:facing=east:half=top:shape=inner_right \
+			  smooth_sandstone_stairs:facing=east:half=top:shape=inner_right smooth_quartz_stairs:facing=east:half=top:shape=inner_right \
+			  granite_stairs:facing=east:half=top:shape=inner_right andesite_stairs:facing=east:half=top:shape=inner_right \
+			  red_nether_brick_stairs:facing=east:half=top:shape=inner_right polished_andesite_stairs:facing=east:half=top:shape=inner_right \
+			  diorite_stairs:facing=east:half=top:shape=inner_right cobbled_deepslate_stairs:facing=east:half=top:shape=inner_right \
+			  polished_deepslate_stairs:facing=east:half=top:shape=inner_right deepslate_brick_stairs:facing=east:half=top:shape=inner_right \
+			  deepslate_tile_stairs:facing=east:half=top:shape=inner_right blackstone_stairs:facing=east:half=top:shape=inner_right \
+			  polished_blackstone_stairs:facing=east:half=top:shape=inner_right polished_blackstone_brick_stairs:facing=east:half=top:shape=inner_right \
+			  bamboo_stairs:facing=east:half=top:shape=inner_right bamboo_mosaic_stairs:facing=east:half=top:shape=inner_right \
+			  cherry_stairs:facing=east:half=top:shape=inner_right pale_oak_stairs:facing=east:half=top:shape=inner_right \
+			  resin_brick_stairs:facing=east:half=top:shape=inner_right tuff_stairs:facing=east:half=top:shape=inner_right \
+			  polished_tuff_stairs:facing=east:half=top:shape=inner_right tuff_brick_stairs:facing=east:half=top:shape=inner_right \
