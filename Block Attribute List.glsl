@@ -175,3 +175,28 @@ layers=8
 :facing=east
 :facing=west
 
+// button
+:powered=false:facing=north:face=floor
+:powered=false:facing=south:face=floor
+:powered=false:facing=north:face=ceiling 
+:powered=false:facing=south:face=ceiling
+:powered=false:facing=west:face=floor 
+:powered=false:facing=east:face=floor
+:powered=false:facing=west:face=ceiling 
+:powered=false:facing=east:face=ceiling
+:powered=false:facing=north:face=wall
+:powered=false:facing=south:face=wall
+:powered=false:facing=west:face=wall
+:powered=false:facing=east:face=wall
+:powered=true:facing=north:face=floor 
+:powered=true:facing=south:face=floor
+:powered=true:facing=north:face=ceiling 
+:powered=true:facing=south:face=ceiling
+:powered=true:facing=west:face=floor 
+:powered=true:facing=east:face=floor
+:powered=true:facing=west:face=ceiling 
+:powered=true:facing=east:face=ceiling
+:powered=true:facing=north:face=wall
+:powered=true:facing=south:face=wall
+:powered=true:facing=west:face=wall
+:powered=true:facing=east:face=wall

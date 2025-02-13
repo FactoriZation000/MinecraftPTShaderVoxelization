@@ -1,6 +1,6 @@
 // Voxel Id List
 // Organized by Factorization
-// Number of updates:5
+// Number of updates:6
 
 
 // slab台阶
@@ -1634,3 +1634,265 @@ cut_copper_stairs:facing=south:half=top:shape=inner_left exposed_cut_copper_stai
 			  cherry_stairs:facing=east:half=top:shape=inner_right pale_oak_stairs:facing=east:half=top:shape=inner_right \
 			  resin_brick_stairs:facing=east:half=top:shape=inner_right tuff_stairs:facing=east:half=top:shape=inner_right \
 			  polished_tuff_stairs:facing=east:half=top:shape=inner_right tuff_brick_stairs:facing=east:half=top:shape=inner_right \
+
+////////2.13updated////////
+
+// anvil铁砧
+
+// 1.NS
+anvil:facing=north anvil:facing=south chipped_anvil:facing=north chipped_anvil:facing=south damaged_anvil:facing=north \
+              damaged_anvil:facing=south 
+
+// 2.EW
+anvil:facing=east anvil:facing=west chipped_anvil:facing=east chipped_anvil:facing=west damaged_anvil:facing=east \
+              damaged_anvil:facing=west
+
+// campfire营火
+
+// 1.:facing=north / :facing=south 
+campfire:facing=north campfire:facing=south soul_campfire:facing=north soul_campfire:facing=south \
+
+// 2.:facing=west / :facing=east
+campfire:facing=west campfire:facing=east soul_campfire:facing=west soul_campfire:facing=east \
+
+// 炼药台:brewing_stand
+
+// 炼药锅:cauldron
+
+// scaffolding脚手架
+
+// 1.:bottom=false
+scaffolding:bottom=false
+
+// 2.:bottom=true
+scaffolding:bottom=true
+
+// 信标:beacon
+
+// 避雷针:lightning_rod
+
+// 讲台:Lectern
+
+// pressure plate压力板
+
+// 1.:powered=false
+oak_pressure_plate:powered=false stone_pressure_plate:powered=false light_weighted_pressure_plate:powered=false \
+              heavy_weighted_pressure_plate:powered=false
+
+// 1.:powered=true
+oak_pressure_plate:powered=true stone_pressure_plate:powered=true light_weighted_pressure_plate:powered=true \
+              heavy_weighted_pressure_plate:powered=true
+
+// button按扭
+// 1.buttons:powered=false:facing=north:face=floor buttons:powered=false:facing=south:face=floor
+
+stone_button:powered=false:facing=north:face=floor polished_blackstone_button:powered=false:facing=north:face=floor \
+			  oak_button:powered=false:facing=north:face=floor spruce_button:powered=false:facing=north:face=floor \
+			  birch_button:powered=false:facing=north:face=floor jungle_button:powered=false:facing=north:face=floor \
+			  acacia_button:powered=false:facing=north:face=floor cherry_button:powered=false:facing=north:face=floor \
+			  dark_oak_button:powered=false:facing=north:face=floor mangrove_button:powered=false:facing=north:face=floor \
+			  bamboo_button:powered=false:facing=north:face=floor crimson_button:powered=false:facing=north:face=floor \
+			  warped_button:powered=false:facing=north:face=floor \
+
+stone_button:powered=false:facing=south:face=floor polished_blackstone_button:powered=false:facing=south:face=floor \
+			  oak_button:powered=false:facing=south:face=floor spruce_button:powered=false:facing=south:face=floor \
+			  birch_button:powered=false:facing=south:face=floor jungle_button:powered=false:facing=south:face=floor \
+			  acacia_button:powered=false:facing=south:face=floor cherry_button:powered=false:facing=south:face=floor \
+			  dark_oak_button:powered=false:facing=south:face=floor mangrove_button:powered=false:facing=south:face=floor \
+			  bamboo_button:powered=false:facing=south:face=floor crimson_button:powered=false:facing=south:face=floor \
+			  warped_button:powered=false:facing=south:face=floor \
+
+// 2.buttons:powered=false:facing=north:face=ceiling buttons:powered=false:facing=south:face=ceiling
+
+stone_button:powered=false:facing=north:face=ceiling polished_blackstone_button:powered=false:facing=north:face=ceiling \
+			  oak_button:powered=false:facing=north:face=ceiling spruce_button:powered=false:facing=north:face=ceiling \
+			  birch_button:powered=false:facing=north:face=ceiling jungle_button:powered=false:facing=north:face=ceiling \
+			  acacia_button:powered=false:facing=north:face=ceiling cherry_button:powered=false:facing=north:face=ceiling \
+			  dark_oak_button:powered=false:facing=north:face=ceiling mangrove_button:powered=false:facing=north:face=ceiling \
+			  bamboo_button:powered=false:facing=north:face=ceiling crimson_button:powered=false:facing=north:face=ceiling \
+			  warped_button:powered=false:facing=north:face=ceiling \
+
+stone_button:powered=false:facing=south:face=ceiling polished_blackstone_button:powered=false:facing=south:face=ceiling \
+			  oak_button:powered=false:facing=south:face=ceiling spruce_button:powered=false:facing=south:face=ceiling \
+			  birch_button:powered=false:facing=south:face=ceiling jungle_button:powered=false:facing=south:face=ceiling \
+			  acacia_button:powered=false:facing=south:face=ceiling cherry_button:powered=false:facing=south:face=ceiling \
+			  dark_oak_button:powered=false:facing=south:face=ceiling mangrove_button:powered=false:facing=south:face=ceiling \
+			  bamboo_button:powered=false:facing=south:face=ceiling crimson_button:powered=false:facing=south:face=ceiling \
+			  warped_button:powered=false:facing=south:face=ceiling \
+
+// 3.buttons:powered=false:facing=west:face=floor buttons:powered=false:facing=east:face=floor
+
+stone_button:powered=false:facing=west:face=floor polished_blackstone_button:powered=false:facing=west:face=floor \
+			  oak_button:powered=false:facing=west:face=floor spruce_button:powered=false:facing=west:face=floor birch_button:powered=false:facing=west:face=floor \
+			  jungle_button:powered=false:facing=west:face=floor acacia_button:powered=false:facing=west:face=floor \
+			  cherry_button:powered=false:facing=west:face=floor dark_oak_button:powered=false:facing=west:face=floor \
+			  mangrove_button:powered=false:facing=west:face=floor bamboo_button:powered=false:facing=west:face=floor \
+			  crimson_button:powered=false:facing=west:face=floor warped_button:powered=false:facing=west:face=floor \
+
+stone_button:powered=false:facing=east:face=floor polished_blackstone_button:powered=false:facing=east:face=floor \
+			  oak_button:powered=false:facing=east:face=floor spruce_button:powered=false:facing=east:face=floor birch_button:powered=false:facing=east:face=floor \
+			  jungle_button:powered=false:facing=east:face=floor acacia_button:powered=false:facing=east:face=floor \
+			  cherry_button:powered=false:facing=east:face=floor dark_oak_button:powered=false:facing=east:face=floor \
+			  mangrove_button:powered=false:facing=east:face=floor bamboo_button:powered=false:facing=east:face=floor \
+			  crimson_button:powered=false:facing=east:face=floor warped_button:powered=false:facing=east:face=floor \
+
+// 4.buttons:powered=false:facing=west:face=ceiling buttons:powered=false:facing=east:face=ceiling
+
+stone_button:powered=false:facing=west:face=ceiling polished_blackstone_button:powered=false:facing=west:face=ceiling \
+			  oak_button:powered=false:facing=west:face=ceiling spruce_button:powered=false:facing=west:face=ceiling \
+			  birch_button:powered=false:facing=west:face=ceiling jungle_button:powered=false:facing=west:face=ceiling \
+			  acacia_button:powered=false:facing=west:face=ceiling cherry_button:powered=false:facing=west:face=ceiling \
+			  dark_oak_button:powered=false:facing=west:face=ceiling mangrove_button:powered=false:facing=west:face=ceiling \
+			  bamboo_button:powered=false:facing=west:face=ceiling crimson_button:powered=false:facing=west:face=ceiling \
+			  warped_button:powered=false:facing=west:face=ceiling \
+
+stone_button:powered=false:facing=east:face=ceiling polished_blackstone_button:powered=false:facing=east:face=ceiling \
+			  oak_button:powered=false:facing=east:face=ceiling spruce_button:powered=false:facing=east:face=ceiling \
+			  birch_button:powered=false:facing=east:face=ceiling jungle_button:powered=false:facing=east:face=ceiling \
+			  acacia_button:powered=false:facing=east:face=ceiling cherry_button:powered=false:facing=east:face=ceiling \
+			  dark_oak_button:powered=false:facing=east:face=ceiling mangrove_button:powered=false:facing=east:face=ceiling \
+			  bamboo_button:powered=false:facing=east:face=ceiling crimson_button:powered=false:facing=east:face=ceiling \
+			  warped_button:powered=false:facing=east:face=ceiling \
+
+// 5.buttons:powered=false:facing=north:face=wall
+
+stone_button:powered=false:facing=north:face=wall polished_blackstone_button:powered=false:facing=north:face=wall \
+			  oak_button:powered=false:facing=north:face=wall spruce_button:powered=false:facing=north:face=wall birch_button:powered=false:facing=north:face=wall \
+			  jungle_button:powered=false:facing=north:face=wall acacia_button:powered=false:facing=north:face=wall \
+			  cherry_button:powered=false:facing=north:face=wall dark_oak_button:powered=false:facing=north:face=wall \
+			  mangrove_button:powered=false:facing=north:face=wall bamboo_button:powered=false:facing=north:face=wall \
+			  crimson_button:powered=false:facing=north:face=wall warped_button:powered=false:facing=north:face=wall \
+
+// 6.buttons:powered=false:facing=south:face=wall
+
+stone_button:powered=false:facing=south:face=wall polished_blackstone_button:powered=false:facing=south:face=wall \
+			  oak_button:powered=false:facing=south:face=wall spruce_button:powered=false:facing=south:face=wall birch_button:powered=false:facing=south:face=wall \
+			  jungle_button:powered=false:facing=south:face=wall acacia_button:powered=false:facing=south:face=wall \
+			  cherry_button:powered=false:facing=south:face=wall dark_oak_button:powered=false:facing=south:face=wall \
+			  mangrove_button:powered=false:facing=south:face=wall bamboo_button:powered=false:facing=south:face=wall \
+			  crimson_button:powered=false:facing=south:face=wall warped_button:powered=false:facing=south:face=wall \
+
+// 7.buttons:powered=false:facing=west:face=wall
+
+stone_button:powered=false:facing=west:face=wall polished_blackstone_button:powered=false:facing=west:face=wall \
+			  oak_button:powered=false:facing=west:face=wall spruce_button:powered=false:facing=west:face=wall birch_button:powered=false:facing=west:face=wall \
+			  jungle_button:powered=false:facing=west:face=wall acacia_button:powered=false:facing=west:face=wall cherry_button:powered=false:facing=west:face=wall \
+			  dark_oak_button:powered=false:facing=west:face=wall mangrove_button:powered=false:facing=west:face=wall \
+			  bamboo_button:powered=false:facing=west:face=wall crimson_button:powered=false:facing=west:face=wall warped_button:powered=false:facing=west:face=wall \
+
+// 8.buttons:powered=false:facing=east:face=wall
+
+stone_button:powered=false:facing=east:face=wall polished_blackstone_button:powered=false:facing=east:face=wall \
+			  oak_button:powered=false:facing=east:face=wall spruce_button:powered=false:facing=east:face=wall birch_button:powered=false:facing=east:face=wall \
+			  jungle_button:powered=false:facing=east:face=wall acacia_button:powered=false:facing=east:face=wall cherry_button:powered=false:facing=east:face=wall \
+			  dark_oak_button:powered=false:facing=east:face=wall mangrove_button:powered=false:facing=east:face=wall \
+			  bamboo_button:powered=false:facing=east:face=wall crimson_button:powered=false:facing=east:face=wall warped_button:powered=false:facing=east:face=wall \
+
+// 9.buttons:powered=true:facing=north:face=floor buttons:powered=true:facing=south:face=floor
+
+stone_button:powered=true:facing=north:face=floor polished_blackstone_button:powered=true:facing=north:face=floor \
+			  oak_button:powered=true:facing=north:face=floor spruce_button:powered=true:facing=north:face=floor birch_button:powered=true:facing=north:face=floor \
+			  jungle_button:powered=true:facing=north:face=floor acacia_button:powered=true:facing=north:face=floor \
+			  cherry_button:powered=true:facing=north:face=floor dark_oak_button:powered=true:facing=north:face=floor \
+			  mangrove_button:powered=true:facing=north:face=floor bamboo_button:powered=true:facing=north:face=floor \
+			  crimson_button:powered=true:facing=north:face=floor warped_button:powered=true:facing=north:face=floor \
+
+stone_button:powered=true:facing=south:face=floor polished_blackstone_button:powered=true:facing=south:face=floor \
+			  oak_button:powered=true:facing=south:face=floor spruce_button:powered=true:facing=south:face=floor birch_button:powered=true:facing=south:face=floor \
+			  jungle_button:powered=true:facing=south:face=floor acacia_button:powered=true:facing=south:face=floor \
+			  cherry_button:powered=true:facing=south:face=floor dark_oak_button:powered=true:facing=south:face=floor \
+			  mangrove_button:powered=true:facing=south:face=floor bamboo_button:powered=true:facing=south:face=floor \
+			  crimson_button:powered=true:facing=south:face=floor warped_button:powered=true:facing=south:face=floor \
+
+// 10.buttons:powered=true:facing=north:face=ceiling buttons:powered=true:facing=south:face=ceiling
+
+stone_button:powered=true:facing=north:face=ceiling polished_blackstone_button:powered=true:facing=north:face=ceiling \
+			  oak_button:powered=true:facing=north:face=ceiling spruce_button:powered=true:facing=north:face=ceiling \
+			  birch_button:powered=true:facing=north:face=ceiling jungle_button:powered=true:facing=north:face=ceiling \
+			  acacia_button:powered=true:facing=north:face=ceiling cherry_button:powered=true:facing=north:face=ceiling \
+			  dark_oak_button:powered=true:facing=north:face=ceiling mangrove_button:powered=true:facing=north:face=ceiling \
+			  bamboo_button:powered=true:facing=north:face=ceiling crimson_button:powered=true:facing=north:face=ceiling \
+			  warped_button:powered=true:facing=north:face=ceiling \
+
+stone_button:powered=true:facing=south:face=ceiling polished_blackstone_button:powered=true:facing=south:face=ceiling \
+			  oak_button:powered=true:facing=south:face=ceiling spruce_button:powered=true:facing=south:face=ceiling \
+			  birch_button:powered=true:facing=south:face=ceiling jungle_button:powered=true:facing=south:face=ceiling \
+			  acacia_button:powered=true:facing=south:face=ceiling cherry_button:powered=true:facing=south:face=ceiling \
+			  dark_oak_button:powered=true:facing=south:face=ceiling mangrove_button:powered=true:facing=south:face=ceiling \
+			  bamboo_button:powered=true:facing=south:face=ceiling crimson_button:powered=true:facing=south:face=ceiling \
+			  warped_button:powered=true:facing=south:face=ceiling \
+
+// 11.buttons:powered=true:facing=west:face=floor buttons:powered=true:facing=east:face=floor
+
+stone_button:powered=true:facing=west:face=floor polished_blackstone_button:powered=true:facing=west:face=floor \
+			  oak_button:powered=true:facing=west:face=floor spruce_button:powered=true:facing=west:face=floor birch_button:powered=true:facing=west:face=floor \
+			  jungle_button:powered=true:facing=west:face=floor acacia_button:powered=true:facing=west:face=floor cherry_button:powered=true:facing=west:face=floor \
+			  dark_oak_button:powered=true:facing=west:face=floor mangrove_button:powered=true:facing=west:face=floor \
+			  bamboo_button:powered=true:facing=west:face=floor crimson_button:powered=true:facing=west:face=floor warped_button:powered=true:facing=west:face=floor \
+
+stone_button:powered=true:facing=east:face=floor polished_blackstone_button:powered=true:facing=east:face=floor \
+			  oak_button:powered=true:facing=east:face=floor spruce_button:powered=true:facing=east:face=floor birch_button:powered=true:facing=east:face=floor \
+			  jungle_button:powered=true:facing=east:face=floor acacia_button:powered=true:facing=east:face=floor cherry_button:powered=true:facing=east:face=floor \
+			  dark_oak_button:powered=true:facing=east:face=floor mangrove_button:powered=true:facing=east:face=floor \
+			  bamboo_button:powered=true:facing=east:face=floor crimson_button:powered=true:facing=east:face=floor warped_button:powered=true:facing=east:face=floor \
+
+// 12.buttons:powered=true:facing=west:face=ceiling buttons:powered=true:facing=east:face=ceiling
+
+stone_button:powered=true:facing=west:face=ceiling polished_blackstone_button:powered=true:facing=west:face=ceiling \
+			  oak_button:powered=true:facing=west:face=ceiling spruce_button:powered=true:facing=west:face=ceiling \
+			  birch_button:powered=true:facing=west:face=ceiling jungle_button:powered=true:facing=west:face=ceiling \
+			  acacia_button:powered=true:facing=west:face=ceiling cherry_button:powered=true:facing=west:face=ceiling \
+			  dark_oak_button:powered=true:facing=west:face=ceiling mangrove_button:powered=true:facing=west:face=ceiling \
+			  bamboo_button:powered=true:facing=west:face=ceiling crimson_button:powered=true:facing=west:face=ceiling \
+			  warped_button:powered=true:facing=west:face=ceiling \
+
+stone_button:powered=true:facing=east:face=ceiling polished_blackstone_button:powered=true:facing=east:face=ceiling \
+			  oak_button:powered=true:facing=east:face=ceiling spruce_button:powered=true:facing=east:face=ceiling \
+			  birch_button:powered=true:facing=east:face=ceiling jungle_button:powered=true:facing=east:face=ceiling \
+			  acacia_button:powered=true:facing=east:face=ceiling cherry_button:powered=true:facing=east:face=ceiling \
+			  dark_oak_button:powered=true:facing=east:face=ceiling mangrove_button:powered=true:facing=east:face=ceiling \
+			  bamboo_button:powered=true:facing=east:face=ceiling crimson_button:powered=true:facing=east:face=ceiling \
+			  warped_button:powered=true:facing=east:face=ceiling \
+
+// 13.buttons:powered=true:facing=north:face=wall
+
+stone_button:powered=true:facing=north:face=wall polished_blackstone_button:powered=true:facing=north:face=wall \
+			  oak_button:powered=true:facing=north:face=wall spruce_button:powered=true:facing=north:face=wall birch_button:powered=true:facing=north:face=wall \
+			  jungle_button:powered=true:facing=north:face=wall acacia_button:powered=true:facing=north:face=wall cherry_button:powered=true:facing=north:face=wall \
+			  dark_oak_button:powered=true:facing=north:face=wall mangrove_button:powered=true:facing=north:face=wall \
+			  bamboo_button:powered=true:facing=north:face=wall crimson_button:powered=true:facing=north:face=wall warped_button:powered=true:facing=north:face=wall \
+
+// 14.buttons:powered=true:facing=south:face=wall
+
+stone_button:powered=true:facing=south:face=wall polished_blackstone_button:powered=true:facing=south:face=wall \
+			  oak_button:powered=true:facing=south:face=wall spruce_button:powered=true:facing=south:face=wall birch_button:powered=true:facing=south:face=wall \
+			  jungle_button:powered=true:facing=south:face=wall acacia_button:powered=true:facing=south:face=wall cherry_button:powered=true:facing=south:face=wall \
+			  dark_oak_button:powered=true:facing=south:face=wall mangrove_button:powered=true:facing=south:face=wall \
+			  bamboo_button:powered=true:facing=south:face=wall crimson_button:powered=true:facing=south:face=wall warped_button:powered=true:facing=south:face=wall \
+
+// 15.buttons:powered=true:facing=west:face=wall
+
+stone_button:powered=true:facing=west:face=wall polished_blackstone_button:powered=true:facing=west:face=wall \
+			  oak_button:powered=true:facing=west:face=wall spruce_button:powered=true:facing=west:face=wall birch_button:powered=true:facing=west:face=wall \
+			  jungle_button:powered=true:facing=west:face=wall acacia_button:powered=true:facing=west:face=wall cherry_button:powered=true:facing=west:face=wall \
+			  dark_oak_button:powered=true:facing=west:face=wall mangrove_button:powered=true:facing=west:face=wall bamboo_button:powered=true:facing=west:face=wall \
+			  crimson_button:powered=true:facing=west:face=wall warped_button:powered=true:facing=west:face=wall \
+
+// 16.buttons:powered=true:facing=east:face=wall
+
+stone_button:powered=true:facing=east:face=wall polished_blackstone_button:powered=true:facing=east:face=wall \
+			  oak_button:powered=true:facing=east:face=wall spruce_button:powered=true:facing=east:face=wall birch_button:powered=true:facing=east:face=wall \
+			  jungle_button:powered=true:facing=east:face=wall acacia_button:powered=true:facing=east:face=wall cherry_button:powered=true:facing=east:face=wall \
+			  dark_oak_button:powered=true:facing=east:face=wall mangrove_button:powered=true:facing=east:face=wall bamboo_button:powered=true:facing=east:face=wall \
+			  crimson_button:powered=true:facing=east:face=wall warped_button:powered=true:facing=east:face=wall \
+
+// composter堆肥桶
+
+composter:level=0
+composter:level=1
+composter:level=2
+composter:level=3
+composter:level=4
+composter:level=5
+composter:level=6
+composter:level=7 composter:level=8
