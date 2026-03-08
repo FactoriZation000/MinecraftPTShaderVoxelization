@@ -10,27 +10,30 @@ output_file_path = os.path.join(desktop_path, "output.txt")
 ids = """
 cobblestone_wall
 mossy_cobblestone_wall
-brick_wall
-prismarine_wall
-red_sandstone_wall
+stone_brick_wall
 mossy_stone_brick_wall
 granite_wall
-mossy_stone_brick_wall
-stone_brick_wall
-mud_brick_wall
-nether_brick_wall
-andesite_wall
-red_nether_brick_wall
-red_sandstone_wall
-end_stone_brick_wall
 diorite_wall
-blackstone_wall
-polished_blackstone_wall
-polished_blackstone_brick_wall
+andesite_wall
 cobbled_deepslate_wall
 polished_deepslate_wall
 deepslate_brick_wall
 deepslate_tile_wall
+tuff_wall
+polished_tuff_wall
+tuff_brick_wall
+brick_wall
+mud_brick_wall
+resin_brick_wall
+sandstone_wall
+red_sandstone_wall
+prismarine_wall
+nether_brick_wall
+red_nether_brick_wall
+blackstone_wall
+polished_blackstone_wall
+polished_blackstone_brick_wall
+end_stone_brick_wall
 """
 
 # 按行分割字符串
@@ -44,35 +47,39 @@ except FileNotFoundError:
     print(f"未找到输入文件：{input_file_path}")
     exit()
 
-
 output_lines = []
 for index, suffix in enumerate(suffixes, start=1):
-    output_lines.append(f"// {index}.fence{suffix}")
+    output_lines.append(f"// {index}.wall{suffix}")
     output_lines.append("")
-    # 生成带后缀的行
+    
     ids_with_suffix = [f"{id}{suffix}" for id in ids]
-    # 格式化为每 100 个字符一行，确保不在id中间断行
+
+    # 按长度分行
     lines = []
     current_line = ""
     for item in ids_with_suffix:
-        # 如果当前行加上新item超出了100个字符，先保存当前行并开始新行
         if len(current_line) + len(item) + 1 > 150:
-            lines.append(current_line.strip() + " \\")
+            lines.append(current_line.strip())
             current_line = item
         else:
-            if current_line:  # 如果当前行不是空，添加一个空格
-                current_line += " " + item
-            else:
-                current_line = item
+            current_line += (" " if current_line else "") + item
     if current_line:
-        lines.append(current_line.strip() + " \\")
-    
-    # 第二行开始前加 3 tab 和 2 空格
-    formatted_lines = [lines[0]] + [f"\t\t\t  {line}" for line in lines[1:]]
-    output_lines.extend(formatted_lines)
-    output_lines.append("")  
+        lines.append(current_line.strip())
 
-# 文件流
+    # 第一行正常，其余行前加制表符和空格
+    formatted_lines = []
+    for i, line in enumerate(lines):
+        if i < len(lines) - 1:
+            line += " \\"
+        if i == 0:
+            formatted_lines.append(line)
+        else:
+            formatted_lines.append(f"\t\t\t  {line}")
+    
+    output_lines.extend(formatted_lines)
+    output_lines.append("")
+
+# 写入文件
 with open(output_file_path, "w", encoding="utf-8") as file:
     for line in output_lines:
         file.write(line + "\n")
