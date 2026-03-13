@@ -66,7 +66,7 @@ blackstone_slab
 polished_blackstone_slab
 polished_blackstone_brick_slab
 
-// 1.slab:type=top 
+// 1.slab:type=top
 cut_copper_slab:type=top exposed_cut_copper_slab:type=top weathered_cut_copper_slab:type=top \
 			  oxidized_cut_copper_slab:type=top waxed_cut_copper_slab:type=top \
 			  waxed_exposed_cut_copper_slab:type=top waxed_weathered_cut_copper_slab:type=top \
@@ -88,7 +88,7 @@ cut_copper_slab:type=top exposed_cut_copper_slab:type=top weathered_cut_copper_s
 			  blackstone_slab:type=top polished_blackstone_slab:type=top polished_blackstone_brick_slab:type=top \
 
 
-// 2.slab:type=bottom 
+// 2.slab:type=bottom
 
 cut_copper_slab:type=bottom exposed_cut_copper_slab:type=bottom \
 			  weathered_cut_copper_slab:type=bottom oxidized_cut_copper_slab:type=bottom \
@@ -155,7 +155,7 @@ crimson_fence
 warped_fence
 nether_brick_fence
 
-// 1.fence:north=false:south=false:east=false:west=false 
+// 1.fence:north=false:south=false:east=false:west=false
 
 oak_fence:north=false:south=false:east=false:west=false spruce_fence:north=false:south=false:east=false:west=false \
 			  birch_fence:north=false:south=false:east=false:west=false jungle_fence:north=false:south=false:east=false:west=false \
@@ -964,7 +964,7 @@ cut_copper_stairs:facing=north:half=top:shape=outer_left exposed_cut_copper_stai
 			  resin_brick_stairs:facing=west:half=top:shape=outer_right tuff_stairs:facing=west:half=top:shape=outer_right \
 			  polished_tuff_stairs:facing=west:half=top:shape=outer_right tuff_brick_stairs:facing=west:half=top:shape=outer_right \
 
-// 14.stairs:facing=east:half=top:shape=outer_left & 
+// 14.stairs:facing=east:half=top:shape=outer_left &
 
 cut_copper_stairs:facing=east:half=top:shape=outer_left exposed_cut_copper_stairs:facing=east:half=top:shape=outer_left \
 			  weathered_cut_copper_stairs:facing=east:half=top:shape=outer_left oxidized_cut_copper_stairs:facing=east:half=top:shape=outer_left \
@@ -1644,7 +1644,7 @@ cut_copper_stairs:facing=south:half=top:shape=inner_left exposed_cut_copper_stai
 
 // 1.NS
 anvil:facing=north anvil:facing=south chipped_anvil:facing=north chipped_anvil:facing=south damaged_anvil:facing=north \
-              damaged_anvil:facing=south 
+              damaged_anvil:facing=south
 
 // 2.EW
 anvil:facing=east anvil:facing=west chipped_anvil:facing=east chipped_anvil:facing=west damaged_anvil:facing=east \
@@ -1652,7 +1652,7 @@ anvil:facing=east anvil:facing=west chipped_anvil:facing=east chipped_anvil:faci
 
 // campfire营火
 
-// 1.:facing=north / :facing=south 
+// 1.:facing=north / :facing=south
 campfire:facing=north campfire:facing=south soul_campfire:facing=north soul_campfire:facing=south \
 
 // 2.:facing=west / :facing=east
@@ -1899,3 +1899,5 @@ composter:level=4
 composter:level=5
 composter:level=6
 composter:level=7 composter:level=8
+
+// fence gate
